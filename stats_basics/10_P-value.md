@@ -1,11 +1,11 @@
 ## P-value 🔢 
 > Given the null hypothesis is true, p-value is the probability of obtaining results at least as extreme as the observed results of a statistical hypothesis test.
 
-💡 A p-value is a measure of the probability that an observed difference could have occurred just by random chance.
+A p-value is a measure of the probability that an observed difference could have occurred just by random chance.
 - The **lower the p-value, the greater the statistical significance** of the observed difference
   - So the stronger the evidence that you should reject the null hypothesis.
   
-🧪 In a hypothesis test:
+In a hypothesis test:
 - The null **hypothesis H0 is rejected** if: 
   - **α - significance level** - a pre-defined threshold value
   - While `p-value ≤ α`, we reject the null hypothesis and we can conclude that we have the significant result.
