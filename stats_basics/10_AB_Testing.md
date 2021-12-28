@@ -3,6 +3,9 @@
 - **Alternative Hypothesis - Ha:** Be contrary to the null hypothesis.
 
 ## 1) P-value 🔢
+- [P-value Explained Simply for Data Scientists](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14)
+
+
 The probability of the test statistic being at least as extreme as the one observed given that the null hypothesis is true. 
 - It's a measure of the probability that an observed difference could have occurred just by random chance.
   - When `p-value > α`, we fail to reject the null hypothesis
