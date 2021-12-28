@@ -2,7 +2,7 @@
 - **Null Hypothesis - H0:** A general statement that there is no association among groups. 
 - **Alternative Hypothesis - Ha:** Be contrary to the null hypothesis.
 
-### P-value
+## 01_P-value
 The probability of the test statistic being at least as extreme as the one observed given that the null hypothesis is true. 
 - It's a measure of the probability that an observed difference could have occurred just by random chance.
   - When `p-value > α`, we fail to reject the null hypothesis
