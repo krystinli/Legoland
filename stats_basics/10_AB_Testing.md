@@ -2,14 +2,12 @@
 - **Null Hypothesis - H0:** A general statement that there is no association among groups. 
 - **Alternative Hypothesis - Ha:** Be contrary to the null hypothesis.
 
-## 1) P-value 🔢
-- [P-value Explained Simply for Data Scientists](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14)
+## 1) P-value 🔢 [P-value Explained Simply for Data Scientists](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14)
+> The probability of the test statistic being at least as extreme as the one observed given that the null hypothesis is true. 
 
-
-The probability of the test statistic being at least as extreme as the one observed given that the null hypothesis is true. 
-- It's a measure of the probability that an observed difference could have occurred just by random chance.
-  - When `p-value > α`, we fail to reject the null hypothesis
-  - While `p-value ≤ α`, we reject the null hypothesis and we can conclude that we have the significant result.
+It's a measure of the probability that an observed difference could have occurred just by random chance.
+- When `p-value > α`, we fail to reject the null hypothesis
+- While `p-value ≤ α`, we reject the null hypothesis and we can conclude that we have the significant result.
 - The **lower the p-value, the greater the statistical significance** of the observed difference
   - So the stronger the evidence that you should reject the null hypothesis.
 
