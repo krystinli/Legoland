@@ -3,8 +3,8 @@
 - **Alternative Hypothesis - Ha:** Be contrary to the null hypothesis.
 
 ## 1) P-value 🔢 
-- [P-value Explained Simply for Data Scientists](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14)
-- [How to interpret p-value with COVID-19 data?](https://towardsdatascience.com/how-to-interpret-p-value-with-covid-19-data-edc19e8483b)
+- [x] [P-value Explained Simply for Data Scientists](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14)
+- [x] [How to interpret p-value with COVID-19 data?](https://towardsdatascience.com/how-to-interpret-p-value-with-covid-19-data-edc19e8483b)
 
 > Given the null hypothesis is true, p-value is the probability of the test statistic being at least as extreme as the one observed. 
 
