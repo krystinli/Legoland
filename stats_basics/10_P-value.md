@@ -16,7 +16,7 @@ In a hypothesis test:
 - Base on assumed probability distribution of the specific statistic being tested, p-values are usually found using p-value tables or spreadsheets/statistical software.
 - Mathematically, the p-value is calculated using integral calculus from the area under the probability distribution curve for all values of statistics that are at least as far from the reference value as the observed value is, relative to the total area under the probability distribution curve.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/P-value_in_statistical_significance_testing.svg/741px-P-value_in_statistical_significance_testing.svg.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/P-value_in_statistical_significance_testing.svg/741px-P-value_in_statistical_significance_testing.svg.png" width=450 />
 
 Consider an observed test-statistic t from unknown distribution T:
 - p-value p is what the prior probability would be of observing a test-statistic value at least as "extreme" as t if null hypothesis H0 were true
