@@ -1,8 +1,8 @@
 ## P-value 🔢 
+> Given the null hypothesis is true, p-value is the probability of obtaining results at least as extreme as the observed results of a statistical hypothesis test.
+
 - [x] [01_How Is P-Value Calculated?](https://github.com/krystinli/Legoland/blob/main/stats_basics/10_P-value.md#01_how-is-p-value-calculated)
 - [x] [02_Example: Workout Reduces Weight]()
-
-> Given the null hypothesis is true, p-value is the probability of obtaining results at least as extreme as the observed results of a statistical hypothesis test.
 
 In simple words, a p-value is a measure of the probability that an observed difference could have occurred just by random chance.
 - The **lower the p-value, the greater the statistical significance** of the observed difference
