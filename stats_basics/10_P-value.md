@@ -24,6 +24,28 @@ Consider an observed test-statistic t from unknown distribution T:
   - `p = Pr(T<t|H0)` for a one-sided left-tail test 
   - `p = {Pr(T>t|H0), Pr(T<t|H0)}` for a two-sided test
 
+<br />
+
+### 02_Example: Workout Reduces Weight 🏋️‍♀️ [[medium]](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14)
+We collect weight loss data for a sample of 10 people who regularly exercise for over 3 months.
+- H0: exercising does NOT affect weight. Or equivalently `𝜇 = 0`
+- HA: exercising does reduce weight. Or equivalently `𝜇 > 0`
+
+Data collection: Observed Mean - Weightloss of People who exercise
+- Weight Loss Sample `Mean = 2 kg`
+- Weight Loss Sample `SD = 1 kg`
+
+Interpretation: 
+- From a cursory look, it looks like that exercising does have benefits as people who exercise have lost on an average 2 kgs
+- **P-value**: assuming that the H0 is true, what is the probability of observing a sample mean of 2 kg or more extreme than 2 kg?
+  - If this p-value is lesser than a threshold value, we reject our null hypothesis and conclude that exercising DOES reduce weight
+  - Otherwise, we fail to reject our null hypothesis. 
+  - Threshold: **significance level(𝜶)**, 𝜶 is taken to be 0.05. (or 0.01, 0.1)
+
+
+
+<br />
+
 ### References
 - [x] [P-value Explained Simply for Data Scientists](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14)
 - [x] [How to interpret p-value with COVID-19 data?](https://towardsdatascience.com/how-to-interpret-p-value-with-covid-19-data-edc19e8483b)
