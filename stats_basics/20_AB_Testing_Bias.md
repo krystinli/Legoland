@@ -32,8 +32,13 @@ If randomization unit between the variants is not close to the designed ratio, t
 
 ### 6) External Validity
 Refers to the extent to which the results of a controlled experiment can be generalized along axes such as diff populations (by country, websites, etc), and over time. 
-- **Primary Effects**: 
-- **Primary Effects**:
+- **Primacy Effects**: When a change is introduced, users need time to adopt as they are primed in the old feature 
+- **Novelty Effects**: Treatment effect may decline over time
+  - For both effects, we need to track usage over time and see whether it's increase or decreasing, and wait for the treatment effect to stabalize 
+  - We can also look at the trends by vintages (when the treatment is triggered for each individual sample)
+
+### 7) Segment Differences
+
 
 ### Reference:
 - [x] <Trustworthy Online Control Experiments> Chapter 3 - Twyman's Law and Experimentation Trustworthiness 
