@@ -34,18 +34,40 @@ We collect weight loss data for a sample of 10 people who regularly exercise for
 - H0: exercising does NOT affect weight. Or equivalently `𝜇 = 0`
 - HA: exercising does reduce weight. Or equivalently `𝜇 > 0`
 
-Data collection: Observed Mean - Weightloss of People who exercise
+**Data collection:** Observed Mean - Weightloss of People who exercise
 - Weight Loss Sample `Mean = 2 kg`
 - Weight Loss Sample `SD = 1 kg`
 
-Interpretation: 
+**Interpretation:** 
 - From a cursory look, it looks like that exercising does have benefits as people who exercise have lost on an average 2 kgs
 - **P-value**: assuming that the H0 is true, what is the probability of observing a sample mean of 2 kg or more extreme than 2 kg?
   - If this p-value is lesser than a threshold value, we reject our null hypothesis and conclude that exercising DOES reduce weight
   - Otherwise, we fail to reject our null hypothesis. 
   - Threshold: **significance level(𝜶)**, 𝜶 is taken to be 0.05. (or 0.01, 0.1)
 
+**The Normal Distribution**
+- We create a Sampling Distribution of the mean of the WeightLoss samples assuming our Null hypothesis is True
+- The **Central Limit Theorem** states that if you have a population with `mean μ` and `standard deviation σ`, Randomly sampling from the population gives:
+  - The distribution of the sample means will be approximately normally distributed with mean as the population mean
+  - And standard err `SE = σ/√n` 
 
+We observed a particular value of the mean that is `X_observed = 2 kg`:
+<img src="https://miro.medium.com/max/1400/1*6HOm6iaEbsq34bn6SJJKcw.png" width=500 />
+
+We can find the area under this particular curve: 
+- Mean = 2 kg, SD = 1 kg
+- N = 10
+- 𝜶 = 0.05
+- z = (2-0)/(1/np.sqrt(10)) = 6.324555320336758
+- `P-value: 1.269814253745949e-10`
+  - We can call our results statistically significant as in they don’t just occur due to mere chance.
+
+**The Z statistic** <br />
+Standard normal with mean 0 and variance 1 as our sampling distribution after transforming our observed value x using:
+`Z = (x - u) / SE`
+- = (2 - 0) / sd/N^0.5 
+- = 6.324555320336758
+- Right-tailed p-value: `P(Z > z) = 1.269814253745949e-10`
 
 <br />
 
