@@ -2,9 +2,9 @@
 > Given the null hypothesis is true, p-value is the probability of obtaining results at least as extreme as the observed results of a statistical hypothesis test.
 
 - [x] [01_How Is P-Value Calculated?](https://github.com/krystinli/Legoland/blob/main/stats_basics/10_P-value.md#01_how-is-p-value-calculated)
-- [x] [02_Example: Workout Reduces Weight]()
+- [x] [02_Example: Workout Reduces Weight](https://github.com/krystinli/Legoland/blob/main/stats_basics/10_P-value.md#02_example-workout-reduces-weight-%EF%B8%8F%EF%B8%8F-medium)
 
-<img src="https://miro.medium.com/max/2000/1*cv8nKQW3xm_f07x-elq9Bg.png" width=450 />
+<img src="https://miro.medium.com/max/2000/1*cv8nKQW3xm_f07x-elq9Bg.png" width=550 />
 
 In simple words, a p-value is a measure of the probability that an observed difference could have occurred just by random chance.
 - The **lower the p-value, the greater the statistical significance** of the observed difference
@@ -17,8 +17,6 @@ In a hypothesis test:
 - For example, a p value of `0.0254` is `2.54%`
 - Means there is a 2.54% chance your results could happened by chance.
 
-<br />
-
 ### 01_How Is P-Value Calculated?
 - Base on assumed probability distribution of the specific statistic being tested, p-values are usually found using p-value tables or spreadsheets/statistical software.
 - Mathematically, the p-value is calculated using integral calculus from the area under the probability distribution curve for all values of statistics that are at least as far from the reference value as the observed value is, relative to the total area under the probability distribution curve.
@@ -30,8 +28,6 @@ Consider an observed test-statistic t from unknown distribution T:
   - `p = Pr(T>t|H0)` for a one-sided right-tail test
   - `p = Pr(T<t|H0)` for a one-sided left-tail test 
   - `p = {Pr(T>t|H0), Pr(T<t|H0)}` for a two-sided test
-
-<br />
 
 ### 02_Example: Workout Reduces Weight 🏋️‍♀️ [[medium]](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14)
 We collect weight loss data for a sample of 10 people who regularly exercise for over 3 months.
