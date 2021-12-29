@@ -38,6 +38,14 @@ Refers to the extent to which the results of a controlled experiment can be gene
   - We can also look at the trends by vintages (when the treatment is triggered for each individual sample)
 
 ### 7) Segment Differences
+We can see how treatment effect varies across segments: 
+1. Localization: segment by market or country
+2. Device or platform
+3. Seasonality: time of the day or day of the week
+4. User type: new or existing users 
+5. Other user acct characteristics: utilty, single acct or joint/shared acct, etc
+
+
 
 
 ### Reference:
