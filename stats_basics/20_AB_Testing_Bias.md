@@ -1,4 +1,4 @@
-## Testing_Results_Bias 🔍
+## AB Testing Bias 🔍
 
 ### 1) Lack of Statistical Power
 Just because you cannot reject the null hypothesis, doesn't mean the alternative hypothesis is not true. 
