@@ -3,7 +3,7 @@
 
 In simple words, a p-value is a measure of the probability that an observed difference could have occurred just by random chance.
 - The **lower the p-value, the greater the statistical significance** of the observed difference
-  - So the stronger the evidence that you should reject the null hypothesis.
+- So the stronger the evidence that you should reject the null hypothesis.
   
 In a hypothesis test:
 - The null **hypothesis H0 is rejected** if: 
