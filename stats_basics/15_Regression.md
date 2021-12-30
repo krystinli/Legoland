@@ -16,7 +16,7 @@
 
 <img src="https://miro.medium.com/max/4800/1*LTxPp0CKoj9NbaUzEkhEGg.png" width=600/>
 
-### Steps for Running Linear Regression:
+### 01 Steps for Running Linear Regression:
 1. Understand the model description, causality and directionality
 2. Check the data, categorical data, missing data and outliers. **Outlier** is a data point that differs significantly from other observations. We can use **standard deviation method** and **interquartile range(IQR)** method. **Dummy variable** takes only the value 0 or 1 to indicate the effect for categorical variables.
 3. Simple Analysis — Check the effect comparing between dependent variable to independent variable and independent variable to independent variable
