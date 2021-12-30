@@ -7,6 +7,14 @@
 6. Exponential Distribution `continuous`
 7. Chi-Square Distribution `continuous`
 
+**Functions**
+- **Probability Mass Function(PMF):** A function that gives the probability that a discrete random variable is exactly equal to some value.
+- **Probability Density Function(PDF):** A function for continuous data where the value at any given sample can be interpreted as providing a relative likelihood that the value of the random variable would equal that sample.
+- **Cumulative Density Function(CDF):** A function that gives the probability that a random variable is less than or equal to a certain value.
+
+Comparison between PMF, PDF and CDF: <br />
+<img src="https://miro.medium.com/max/1400/1*ktIttLCFRAqdUlLE180v9g.png" width=500 />
+
 ---------
 
 ### 1) Uniform Distribution 
@@ -124,11 +132,3 @@ A probability distribution of the time between the events in a Poisson point pro
 The distribution of the sum of squared standard normal deviates.
 
 <img src="https://miro.medium.com/max/1400/1*C3kv6PpeNyTCQCTKXD0w9Q.png" width=700/>
-
-**Functions**
-- **Probability Mass Function(PMF):** A function that gives the probability that a discrete random variable is exactly equal to some value.
-- **Probability Density Function(PDF):** A function for continuous data where the value at any given sample can be interpreted as providing a relative likelihood that the value of the random variable would equal that sample.
-- **Cumulative Density Function(CDF):** A function that gives the probability that a random variable is less than or equal to a certain value.
-
-Comparison between PMF, PDF and CDF: <br />
-<img src="https://miro.medium.com/max/1400/1*ktIttLCFRAqdUlLE180v9g.png" width=500 />
