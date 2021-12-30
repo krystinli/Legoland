@@ -7,7 +7,9 @@
 6. Exponential Distribution `continuous`
 7. Chi-Square Distribution `continuous`
 
-### 1) Uniform Distribution 🌟🌟🌟🌟
+<br />
+
+### 1) Uniform Distribution 
 - All the outcomes are equally likely 🏋️‍♀️
 - **Example:**
   - Consider the case of rolling a fair dice 🔢
