@@ -3,18 +3,18 @@
 - An **independent variable** is the variable that is controlled in a scientific experiment to test the effects on the dependent variable. 
 - A **dependent variable** is the variable being measured in a scientific experiment.
 
-<img src="https://miro.medium.com/max/4800/1*AevSOm4o9acS44_Aqg6tjQ.png" width=700 />
+<img src="https://miro.medium.com/max/4800/1*AevSOm4o9acS44_Aqg6tjQ.png" width=750 />
 
-**Assumptions:**
+**Multiple Linear Regression** is a linear approach to modeling the relationship between a dependent variable and two or more independent variables.
+
+<img src="https://miro.medium.com/max/4800/1*LTxPp0CKoj9NbaUzEkhEGg.png" width=600/>
+
+### 00_Assumptions
 - Linear Relationship
 - Multivariate Normality
 - No or Little Multicollinearity
 - No or Little Autocorrelation
 - Homoscedasticity
-
-**Multiple Linear Regression** is a linear approach to modeling the relationship between a dependent variable and two or more independent variables.
-
-<img src="https://miro.medium.com/max/4800/1*LTxPp0CKoj9NbaUzEkhEGg.png" width=600/>
 
 ### 01 Steps for Running Linear Regression:
 1. Understand the model description, causality and directionality
