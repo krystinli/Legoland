@@ -1,4 +1,6 @@
 # Population vs. Samples
+- [01_descriptive_stats](https://github.com/krystinli/Legoland/blob/main/stats_basics/01_Population_Sampling.md#01_descriptive_stats)
+
 <img src="https://miro.medium.com/max/1400/1*gzw8D_yLjYzIzCef3VykqQ.png" width=600/>
 
 **Variance:** 
