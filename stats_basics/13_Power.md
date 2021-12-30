@@ -1,4 +1,6 @@
 # Power
+- [01_significance_level_and_rejection_region](https://github.com/krystinli/Legoland/blob/main/stats_basics/13_Power.md#01_significance_level_and_rejection_region)
+
 The power of a test is the probability of correctly rejecting the null hypothesis. As your sample size increases, so does the power of your test.
 - This should intuitively make sense as a larger sample means that you have collected more information -- which makes it easier to correctly reject the null hypothesis when you should.
 - To ensure that your sample size is big enough, you will need to conduct a power analysis calculation, which require:
