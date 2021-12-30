@@ -6,8 +6,12 @@ For large sample sizes: [CLT](https://medium.com/@seema.singh/central-limit-theo
 
 <img src="https://miro.medium.com/max/916/1*DfBsmbGDS72leAVaV37uKg.png" width=350 />
 
-For a randome sample taken from a population:
-- Mean of the sample means is computed as: ![](https://miro.medium.com/max/168/1*k8gKNPZI71KzZH-wfkpdfg.png)
-- Standard deviation of sample: ![](https://miro.medium.com/max/186/1*dUqGn6A9kIAhLpgoc65zCw.png)
 
-<img src="https://miro.medium.com/max/1400/1*drwGHpQOULr7_Q6Vwf_IbQ.jpeg" width=500 />
+### 00_Sampling
+For a randome sample taken from a population:
+- Mean of the sample means is computed as: 
+  - ![](https://miro.medium.com/max/168/1*k8gKNPZI71KzZH-wfkpdfg.png)
+- Standard deviation of sample: 
+  - ![](https://miro.medium.com/max/186/1*dUqGn6A9kIAhLpgoc65zCw.png)
+
+<img src="https://miro.medium.com/max/1400/1*drwGHpQOULr7_Q6Vwf_IbQ.jpeg" width=600 />
