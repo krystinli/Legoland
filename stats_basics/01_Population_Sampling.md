@@ -1,4 +1,4 @@
-# Central Tendency
+# Population vs. Samples
 <img src="https://miro.medium.com/max/1400/1*gzw8D_yLjYzIzCef3VykqQ.png" width=600/>
 
 **Variance:** 
