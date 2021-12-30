@@ -1,4 +1,4 @@
-## Conditional_Probability
+# Conditional_Probability
 Conditional Probability is the likelihood of an outcome occuring basd on previous outcome occuring 
 - `P(A|B)=P(A∩B)/P(B)`
 - `P(A∩B)=P(B|A).P(A)`
