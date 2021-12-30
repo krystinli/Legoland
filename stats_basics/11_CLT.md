@@ -4,3 +4,8 @@ For large sample sizes: [CLT](https://medium.com/@seema.singh/central-limit-theo
 - A sample of size 30 is considered large enough to see the effect and power of Central Limit Theorem
 
 <img src="https://miro.medium.com/max/916/1*DfBsmbGDS72leAVaV37uKg.png" width=400 />
+
+
+For a randome sample taken from a population:
+- Mean of the sample means is computed as: ![](https://miro.medium.com/max/168/1*k8gKNPZI71KzZH-wfkpdfg.png)
+- Standard deviation of sample: ![](https://miro.medium.com/max/186/1*dUqGn6A9kIAhLpgoc65zCw.png)
