@@ -12,6 +12,24 @@ AB test:
 - Run another AB test, group B, group C, there is a 5% lift in group C relative to group B (C = B + 5%)
 - Then what's the lift in group C relative to group A. (C should be 10% higher than group A) 
 
+### 01_Significance_Level_and_Rejection_Region
+- The rejection region depends on the significance level. 
+- The significance level is denoted by α and is the probability of rejecting the null hypothesis if it is true. 
+
+### 02_Critical Value
+A point on the scale of the test statistic beyond which we reject the null hypothesis
+- Derived from the level of significance α of the test
+- It depends upon a test statistic, which is specific to the type of test
+- The significance level, α, defines the sensitivity of the test
+
+### 03_Error
+- **Type I error** is the rejection of a true null hypothesis
+- **Type II error** is the non-rejection of a false null hypothesis.
+
+<img src="https://miro.medium.com/max/4800/1*vpRxfDM8MHLtfTrO7Sx3zQ.png" width=800 />
+
+<br />
+
 ### Questions
 **If decrease the effect size by half, how to adjust sample size to achieve the same statistical power, assume standard deviation remains the same?**
 - 4 times, 1.05 * 1.05
