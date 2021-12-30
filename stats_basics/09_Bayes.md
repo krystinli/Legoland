@@ -1,13 +1,15 @@
 ## Conditional_Probability
-**Conditional Probability** is the likelihood of an outcome occuring basd on previous outcome occuring 
+Conditional Probability is the likelihood of an outcome occuring basd on previous outcome occuring 
 - `P(A|B)=P(A∩B)/P(B)`
 - `P(A∩B)=P(B|A).P(A)`
 
-**Bayes’ Theorem**: 🌟🌟🌟🌟🌟
+### Bayes’ Theorem
 - Describes the probability of an event based on prior knowledge of conditions that might be related to the event
 - It provides a way to revise existing predictions or update probability given new additional avidence 
 
 <img src="https://miro.medium.com/max/1400/1*LnJh6KyCUcbgZG6Mslwj0Q.png" width=700 />
+
+-----------
 
 ### Example_01 🤧
 A doctor performs a test with 99% reliability -> 99% of people who are sick test positive and 99% of healthy people test negative. Only 1% of the people in the country are sick. If the patient test positive, what're the chance of patient being sick?
