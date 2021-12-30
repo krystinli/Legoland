@@ -35,5 +35,5 @@ A point on the scale of the test statistic beyond which we reject the null hypot
 <br />
 
 ### Questions
-**If decrease the effect size by half, how to adjust sample size to achieve the same statistical power, assume standard deviation remains the same?**
+**Q1: If decrease the effect size by half, how to adjust sample size to achieve the same statistical power, assume standard deviation remains the same?**
 - 4 times, 1.05 * 1.05
