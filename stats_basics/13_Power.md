@@ -1,5 +1,7 @@
 # Power
 - [01_significance_level_and_rejection_region](https://github.com/krystinli/Legoland/blob/main/stats_basics/13_Power.md#01_significance_level_and_rejection_region)
+- [02_critical_value](https://github.com/krystinli/Legoland/blob/main/stats_basics/13_Power.md#02_critical_value)
+- []()
 
 The power of a test is the probability of correctly rejecting the null hypothesis. As your sample size increases, so does the power of your test.
 - This should intuitively make sense as a larger sample means that you have collected more information -- which makes it easier to correctly reject the null hypothesis when you should.
@@ -18,7 +20,7 @@ AB test:
 - The rejection region depends on the significance level. 
 - The significance level is denoted by α and is the probability of rejecting the null hypothesis if it is true. 
 
-### 02_Critical Value
+### 02_Critical_Value
 A point on the scale of the test statistic beyond which we reject the null hypothesis
 - Derived from the level of significance α of the test
 - It depends upon a test statistic, which is specific to the type of test
