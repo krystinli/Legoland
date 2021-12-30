@@ -7,7 +7,7 @@
 6. Exponential Distribution `continuous`
 7. Chi-Square Distribution `continuous`
 
-<br />
+---------
 
 ### 1) Uniform Distribution 
 - All the outcomes are equally likely 🏋️‍♀️
@@ -35,6 +35,8 @@
 
 <img src="https://miro.medium.com/max/1332/1*3PCTi-tyCCeUSoiXVw2B0A.png" width=400 />
 
+---------
+
 ### 2) Bernoulli Distribution 
 <img src="https://miro.medium.com/max/1400/1*AbT3n4wrT2ldWPFZj_77Yg.png" width=400 />
 
@@ -46,6 +48,8 @@
   - and 0(failure) with probability (1-p).
 
 <img src="https://miro.medium.com/max/1400/1*0hPAexOgWAzOuCdyIxp8Rg.png" width=300 /> <img src="https://miro.medium.com/max/1400/1*RYylA-UwmjocxRp6VnTCrg.png" width=400 />
+
+---------
 
 ### 3) Binomial Distribution
 The distribution of the number of successes in a sequence of n independent experiments, and each with only 2 possible outcomes: 
@@ -77,6 +81,8 @@ Q2. What if you only interact with 10 out of 50 people?
 - = 1- Px(k=0)=1- 10C0 * 0.1^0 * 0.9^10 = 0.6513
 ```
 
+---------
+
 ### 4) Poisson Distribution 
 The distribution that expresses the probability of 
 - A given number of events k 
@@ -101,11 +107,7 @@ Probability mass function:
 **Comparison** <br />
 <img src="https://miro.medium.com/max/4800/1*YVOAif6t_4Fzjfho1iLldQ.png" width=750/>
 
-<br />
-
 --------------
-
-`Continuous_Probability_Distribution`
 
 ### 5) Normal/Gaussian Distribution
 - The curve of the distribution is bell-shaped and symmetrical 
