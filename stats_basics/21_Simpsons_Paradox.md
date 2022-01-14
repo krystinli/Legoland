@@ -3,7 +3,7 @@ Occurs when we observe a certain trend in the aggregate data but not in the unde
 - For AB testing, Simpson’s Paradox can occur when the overall mean conversion rate to a result 
 - Different from the mean conversion rates of the underlying segments. 
 
-### What causes Simpson’s Paradox? 🧙‍♀️
+## 00_What causes Simpson’s Paradox? 🧙‍♀️
 Essentially caused by `weighted averages`:
 - When we combine the results by traffic sources 
   - The **dominant traffic source** for each of the variants heavily influences the **aggregate conversion rates**
@@ -11,7 +11,7 @@ Essentially caused by `weighted averages`:
   - The traffic source volume is **unevenly distributed** between the experiences and is in fact responsible for the observed results
 - This can easily move our test dangerously close to comparing apples to oranges.
 
-### How to avoid it?
+## 01_How to avoid it?
 `Action 1`: The samples are **completely randomized** and free from bias
 - Ensure that the **distribution of visitors from different traffic** sources, browsers etc is comparable across the experiences
   - A visitor coming to the page is equally likely to see any of the experiences.  
