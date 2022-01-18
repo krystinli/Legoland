@@ -43,6 +43,7 @@ Business vs. Operational metrics
 - Business metrics: revenue per user; DAU -> track the health of the business
 - Operational metrics: queries per second
 
+<br />
 
 ### Reference:
 - [x] **Trustworthy Online Control Experiments** 📖 Chapter 6
