@@ -1,4 +1,4 @@
-## 4 Stages to become Data Driven Companies
+## 4 Stages to become a Data Driven Company
 
 ### 01_Crawl 👶
 Build foundational prerequisites to compute the **summary stats** needed for hypothesis testing
