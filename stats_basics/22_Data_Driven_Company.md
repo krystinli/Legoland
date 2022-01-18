@@ -1,4 +1,7 @@
 ## 4 Stages to become a Data Driven Company
+OKR - Objectives and Key Results
+- Objectives are long term goals
+- Key Results are for short terms 
 
 ### 01_Crawl 👶
 Build foundational prerequisites to compute the **summary stats** needed for hypothesis testing
