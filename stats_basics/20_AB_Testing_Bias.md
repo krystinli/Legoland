@@ -47,4 +47,4 @@ We can see how treatment effect varies across segments:
 5. Other user acct characteristics: utilty, single acct or joint/shared acct, etc
 
 ### Reference:
-- [x] `Trustworthy Online Control Experiments` Chapter 3 - Twyman's Law and Experimentation Trustworthiness 
+- [x] **Trustworthy Online Control Experiments** 📖 Chapter 3 - Twyman's Law and Experimentation Trustworthiness 
