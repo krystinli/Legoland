@@ -22,3 +22,6 @@ Running A/B tes as the norm for every change
 - Feature teams can analyze most experiments without the help from DS's
 - The focus shifts from automation to support this scale 
 - Establishing institutional memory: a record of all experiemnts and changes made which enable learning from the past 
+
+### Reference:
+- [x] **Trustworthy Online Control Experiments** 📖 Chapter 4
