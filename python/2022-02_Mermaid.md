@@ -5,7 +5,9 @@ On Feb 14, 2022, Mermaid finally made its way to Github MD 👏
 ## 00_Examples
 
 ```mermaid
-  graph example1;
-      a-->b;
-      b-->c;
+graph TD
+    A[Hard] -->|Text| B(Round)
+    B --> C{Decision}
+    C -->|One| D[Result 1]
+    C -->|Two| E[Result 2]
 ```
