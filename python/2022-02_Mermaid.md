@@ -48,5 +48,4 @@ flowchart LR;
 
 ### More
 - Nodes shapes [[here]](https://mermaid-js.github.io/mermaid/#/./flowchart?id=node-shapes)
-
-
+- Link betwee nodes [[here]](https://mermaid-js.github.io/mermaid/#/./flowchart?id=links-between-nodes)
