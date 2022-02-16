@@ -1,16 +1,14 @@
 # Mermaid 🧜‍♀️
 On Feb 14, 2022, Mermaid finally made its way to Github MD 👏
-- [ ] [Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+- [ ] [About Mermaid](http://mermaid-js.github.io/mermaid/#/)
 
-## 00_Examples
-
-### Flowchart [Basic Syntax](https://mermaid-js.github.io/mermaid/#/./flowchart?id=flowcharts-basic-syntax)
+## 01_Flowchart [Basic Syntax](https://mermaid-js.github.io/mermaid/#/./flowchart?id=flowcharts-basic-syntax)
 All Flowcharts are composed of 
 - nodes
 - the geometric shapes
 - and edges: the arrows or lines
 
-A node: The id is what is displayed in the box.
+**A node:** The id is what is displayed in the box.
 ```mermaid
 graph LR;
     id
