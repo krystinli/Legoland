@@ -4,7 +4,7 @@ On Feb 14, 2022, Mermaid finally made its way to Github MD 👏
 
 ## 00_Examples
 
-1. Simple Flow Chart
+### Flowchart [Basic Syntax](https://mermaid-js.github.io/mermaid/#/./flowchart?id=flowcharts-basic-syntax)
 ```mermaid
 graph TD;
     A-->B;
