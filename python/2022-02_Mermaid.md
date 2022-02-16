@@ -1,9 +1,9 @@
 # Mermaid 🧜‍♀️
 On Feb 14, 2022, Mermaid finally made its way to Github MD 👏
-- [x] [Basic Flowchart]((https://mermaid-js.github.io/mermaid/#/./flowchart?id=flowcharts-basic-syntax))
+- [x] [Basic Flowchart](https://mermaid-js.github.io/mermaid/#/./flowchart?id=flowcharts-basic-syntax)
 - [ ] [Subgraph](https://mermaid-js.github.io/mermaid/#/./flowchart?id=subgraphs)
 
-## 01_Flowchart
+## 01_Flowchart 📊
 All Flowcharts are composed of 
 1. Nodes
 2. The geometric shapes
