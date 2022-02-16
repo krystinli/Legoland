@@ -4,6 +4,7 @@ On Feb 14, 2022, Mermaid finally made its way to Github MD 👏
 
 ## 00_Examples
 
+1. Simple Chart
 ```mermaid
 graph TD;
     A-->B;
