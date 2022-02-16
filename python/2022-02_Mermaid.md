@@ -9,7 +9,9 @@ On Feb 14, 2022, Mermaid finally made its way to Github MD 👏
 graph TD;
     A-->B;
     A-->C;
-    
+```
+
+```mermaid
 graph LR;
     id
 ```
