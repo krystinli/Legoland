@@ -6,6 +6,6 @@ On Feb 14, 2022, Mermaid finally made its way to Github MD 👏
 
 ```mermaid
   graph example1;
-    a-->b;
-    b-->c;
+      a-->b;
+      b-->c;
 ```
