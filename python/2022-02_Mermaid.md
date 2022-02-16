@@ -46,6 +46,7 @@ flowchart LR;
     Start-->Finish;
 ```
 
-
+### More
+- Nodes shapes [[here]](https://mermaid-js.github.io/mermaid/#/./flowchart?id=node-shapes)
 
 
