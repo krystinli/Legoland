@@ -10,6 +10,11 @@ All Flowcharts are composed of
 3. Edges: the arrows or lines
 
 **A node:** The id is what is displayed in the box.
+```
+graph LR;
+    id1[This is the text in the box]
+```
+
 ```mermaid
 graph LR;
     id1[This is the text in the box]
@@ -17,6 +22,13 @@ graph LR;
 
 **A graph:** This statement declares the direction of the Flowchart.
 - This declares the flowchart is oriented from top to bottom (TD or TB)
+
+```
+graph TD;
+    A-->B;
+    A-->C;
+```
+
 ```mermaid
 graph TD;
     A-->B;
