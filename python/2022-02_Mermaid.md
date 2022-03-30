@@ -1,5 +1,5 @@
 # Mermaid 🧜‍♀️
-On Feb 14, 2022, Mermaid finally made its way to Github MD 👏
+On Feb 14, 2022, Mermaid finally made its way to Github MD 👏. This page documents some basic usage of Mermaid:
 - [x] [Basic Flowchart](https://mermaid-js.github.io/mermaid/#/./flowchart?id=flowcharts-basic-syntax)
 - [ ] [Subgraph](https://mermaid-js.github.io/mermaid/#/./flowchart?id=subgraphs)
 
