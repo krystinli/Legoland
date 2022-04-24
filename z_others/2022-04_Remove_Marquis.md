@@ -14,7 +14,9 @@ Search Marquis virus Mac is a new persona of the Bing redirect malady that hijac
 - [ ] Profiles `nothing`
 
 **Remove from Chrome**
-- [ ] Reset settings
+- [x] Reset settings
+- [ ] Clear history. Open Chrome. Choose History from the menu bar > Show Full History > Clear Browsing Data
+- [ ] Change default search engine. Open Chrome > Preferences > Search Engine
 
 
 ## 00_Instructions
