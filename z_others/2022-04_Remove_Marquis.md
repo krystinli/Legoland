@@ -17,4 +17,5 @@ Search Marquis virus Mac is a new persona of the Bing redirect malady that hijac
 
 
 ## 00_Instructions
-- [x] [Guide1](https://macsecurity.net/view/289-search-marquis-com)
+- [x] [Guide1](https://macsecurity.net/view/289-search-marquis-com) not working
+- [ ] [Guide2](https://www.stellarinfo.com/blog/how-to-get-rid-of-search-marquis-on-mac/)
