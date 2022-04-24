@@ -5,9 +5,10 @@ Search Marquis virus Mac is a new persona of the Bing redirect malady that hijac
 **Remove from Mac**
 - [x] Delete unknown things from **Activity Monitor** -> `Force Quit`
 - [x] Go -> Go to Folder -> `/Library/LaunchAgents` -> Move unknown to trash
-- [x] Go -> Go to Folder -> `~/Library/Application Support` -> Move unknown to trash
-- [x] Go -> Go to Folder -> `~/Library/LaunchAgents` -> Move unknown to trash
-- [x] Go -> Go to Folder -> `/Library/LaunchDaemons ` -> Move unknown to trash
+  - `~/Library/Application Support`
+  - `/Library/Application Support` Type in **marquis** into the search box
+  - `~/Library/LaunchAgents`
+  - `/Library/LaunchDaemons `
 - [x] Go -> Applications -> Delete uknown stuff
 - [ ] System Preferences -> Users & Groups -> Login Items `nothing`
 - [ ] Profiles `nothing`
