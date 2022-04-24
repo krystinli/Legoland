@@ -15,10 +15,10 @@ Search Marquis virus Mac is a new persona of the Bing redirect malady that hijac
 
 **Remove from Chrome**
 - [x] Reset settings
-- [ ] Clear history. Open Chrome. Choose History from the menu bar > Show Full History > Clear Browsing Data
-- [ ] Change default search engine. Open Chrome > Preferences > Search Engine
+- [x] Clear history. Open Chrome. Choose History from the menu bar > Show Full History > Clear Browsing Data
+- [x] Change default search engine. Open Chrome > Preferences > Search Engine
 
 
 ## 00_Instructions
 - [x] [Guide1](https://macsecurity.net/view/289-search-marquis-com) not working
-- [ ] [Guide2](https://www.stellarinfo.com/blog/how-to-get-rid-of-search-marquis-on-mac/)
+- [x] [Guide2](https://www.stellarinfo.com/blog/how-to-get-rid-of-search-marquis-on-mac/) not working
