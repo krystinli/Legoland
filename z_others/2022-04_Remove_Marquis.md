@@ -3,6 +3,7 @@ Search Marquis virus Mac is a new persona of the Bing redirect malady that hijac
 
 ### 02_Antivirus
 - [ ] Combo Cleaner
+- [x] Malwarebytes - `Does NOT work`
 
 ### 01_Steps
 **Remove from Mac**
