@@ -5,4 +5,5 @@ Goal: add more personality to my github profile and make it less boring 🤠
 - [x] Add bio
 
 ## Command_Line_Change
-[starship](https://starship.rs/)
+- [ ] [starship](https://starship.rs/)
+- [x] [bash-it](https://github.com/Bash-it/bash-it)
