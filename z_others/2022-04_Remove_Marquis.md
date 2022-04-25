@@ -1,6 +1,9 @@
 # Remove_Marquis 🐛
 Search Marquis virus Mac is a new persona of the Bing redirect malady that hijacks a victim’s web browser and causes annoying redirects unless removed
 
+### 02_Antivirus
+- [ ] Combo Cleaner
+
 ### 01_Steps
 **Remove from Mac**
 - [x] Delete unknown things from **Activity Monitor** -> `Force Quit`
