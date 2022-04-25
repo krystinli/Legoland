@@ -7,4 +7,4 @@ Goal: add more personality to my github profile and make it less boring 🤠
 ## Command_Line_Change
 - [ ] [starship](https://starship.rs/)
 - [x] [bash-it](https://github.com/Bash-it/bash-it)
-  - [ ] [[themes]](https://bash-it.readthedocs.io/en/latest/themes/)
+  - [ ] [[themes]](https://bash-it.readthedocs.io/en/latest/themes-list/#list-of-themes)
