@@ -4,7 +4,7 @@ Goal: add more personality to my github profile and make it less boring 🤠
   - A couple of templates I like .. [[Jan]](https://github.com/jborchma) and [[Ian]](https://github.com/ian-whitestone)
 - [x] Add bio
 
-## Command_Line_Change
+## Command_Line_Skin
 - [ ] 1) [starship](https://starship.rs/)
 - [ ] 2) [ohmyzsh!](https://github.com/ohmyzsh/ohmyzsh)
 - [x] 3) [bash-it](https://github.com/Bash-it/bash-it)
