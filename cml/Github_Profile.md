@@ -5,8 +5,8 @@ Goal: add more personality to my github profile and make it less boring 🤠
 - [x] Add bio
 
 ## Command_Line_Change
-- [ ] [starship](https://starship.rs/)
-- [ ] [ohmyzsh!](https://github.com/ohmyzsh/ohmyzsh)
-- [x] [bash-it](https://github.com/Bash-it/bash-it)
+- [ ] 1) [starship](https://starship.rs/)
+- [ ] 2) [ohmyzsh!](https://github.com/ohmyzsh/ohmyzsh)
+- [x] 3) [bash-it](https://github.com/Bash-it/bash-it)
   - [x] [[themes]](https://bash-it.readthedocs.io/en/latest/themes-list/#list-of-themes) `export BASH_IT_THEME="Metal"`
   - [x] `sudo chown usr ~/.bash_profile`
