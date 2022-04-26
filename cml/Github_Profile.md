@@ -14,4 +14,5 @@ Goal: add more personality to my github profile and make it less boring 🤠
   - [x] `sudo chown usr ~/.bash_profile`
 
 ## Anaconda_Path_Fix
-`source /opt/anaconda3/bin/activate`
+- `source /opt/anaconda3/bin/activate`
+- `conda init zsh`
