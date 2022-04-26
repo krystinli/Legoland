@@ -6,7 +6,9 @@ Goal: add more personality to my github profile and make it less boring 🤠
 
 ## Command_Line_Skin
 - [ ] 1) [starship](https://starship.rs/)
-- [ ] 2) [ohmyzsh!](https://github.com/ohmyzsh/ohmyzsh)
+- [x] 2) [ohmyzsh!](https://github.com/ohmyzsh/ohmyzsh)
+  - [x] [[themes]](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) `cloud` `half-life` `jonathan`
+  - [x] `vim ~/.zshrc` change theme!
 - [x] 3) [bash-it](https://github.com/Bash-it/bash-it)
   - [x] [[themes]](https://bash-it.readthedocs.io/en/latest/themes-list/#list-of-themes) `export BASH_IT_THEME="Metal"`
   - [x] `sudo chown usr ~/.bash_profile`
