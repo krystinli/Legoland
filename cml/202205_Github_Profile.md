@@ -3,6 +3,15 @@
 - [x] [mustache](https://www.npmjs.com/package/mustache)
 - [x] [Self Updating Readme](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)
 
+### git_workflow
+`main.yaml`
+1. Checkout current repository to Master branch
+2. Setup NodeJs 13.x
+3. Cache dependencies and build outputs to improve workflow execution time
+4. Install dependencies
+5. Generate README file
+6. Commit and Push new `README.md` to the repository
+
 ## 02_Github_Profile
 Goal: add more personality to my github profile and make it less boring 🤠
 - [x] Add a [profile_readme](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
