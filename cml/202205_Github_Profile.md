@@ -1,3 +1,8 @@
+# Github_Improvements 🚧
+- [x] 01_Command_Line_Skin
+- [x] 02_Github_Profile
+- [ ] 03_Dynamic_Git_Profile
+
 ## 03_Dynamic_Git_Profile
 - [x] Install npm 
 - [x] [mustache](https://www.npmjs.com/package/mustache)
