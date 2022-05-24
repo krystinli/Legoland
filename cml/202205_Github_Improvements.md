@@ -6,6 +6,11 @@
 
 ## 04_Github_Actions
 [learn-github-actions](https://docs.github.com/en/actions/learn-github-actions)
+- Continuous integration and continuous delivery (CI/CD) platform
+- Automate build, test, and deployment pipeline
+
+[git-auto-commit](https://michaelheap.com/git-auto-commit/)
+
 
 ## 03_Dynamic_Git_Profile
 - [x] Install npm 
