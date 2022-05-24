@@ -2,6 +2,10 @@
 - [x] 01_Command_Line_Skin
 - [x] 02_Github_Profile
 - [ ] 03_Dynamic_Git_Profile
+- [ ] 04_Github_Actions
+
+## 04_Github_Actions
+[learn-github-actions](https://docs.github.com/en/actions/learn-github-actions)
 
 ## 03_Dynamic_Git_Profile
 - [x] Install npm 
