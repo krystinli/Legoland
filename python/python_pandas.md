@@ -1,11 +1,11 @@
 # pandas 🐼
-- [x] [pd.DataFrame](https://github.com/krystinli/Legoland-Private/blob/master/Python/python_pandas.md#pddataframe) `DataFrame`
-- [x] [pd.info](https://github.com/krystinli/Legoland-Private/blob/master/Python/python_pandas.md#pdinfo) `info` `describe` `shape` `columns` `count` `nunique` `mean`
-- [x] [pd.read_csv](https://github.com/krystinli/Legoland-Private/blob/master/Python/python_pandas.md#pdread_csv) `to_csv` `read_csv`
-- [x] [pd.merge](https://github.com/krystinli/Legoland-Private/blob/master/Python/python_pandas.md#pdmerge) `merge` `concat`
-- [x] [pd.loc](https://github.com/krystinli/Legoland-Private/blob/master/Python/python_pandas.md#pdloc) `loc` `iloc`
-- [x] [pd.datetime](https://github.com/krystinli/Legoland-Private/blob/master/Python/python_pandas.md#pddatetime) `to_datetime` `strftime` `groupby` `dt.now()`
-- [x] [pd.fillna](https://github.com/krystinli/Legoland-Private/blob/master/Python/python_pandas.md#pdapply) `fillna` `dropna` `isna` `isnull` `replace`
+- [x] [pd.DataFrame](https://github.com/krystinli/Legoland/blob/main/python/python_pandas.md#pddataframe) `DataFrame`
+- [x] [pd.info](https://github.com/krystinli/Legoland/blob/main/python/python_pandas.md#pdinfo) `info` `describe` `shape` `columns` `count` `nunique` `mean`
+- [x] [pd.read_csv](https://github.com/krystinli/Legoland/blob/main/python/python_pandas.md#pdread_csv) `to_csv` `read_csv`
+- [x] [pd.merge](https://github.com/krystinli/Legoland/blob/main/python/python_pandas.md#pdmerge) `merge` `concat`
+- [x] [pd.loc](https://github.com/krystinli/Legoland/blob/main/python/python_pandas.md#pdloc) `loc` `iloc`
+- [x] [pd.datetime](https://github.com/krystinli/Legoland/blob/main/python/python_pandas.md#pddatetime) `to_datetime` `strftime` `groupby` `dt.now()`
+- [x] [pd.fillna](https://github.com/krystinli/Legoland/blob/main/python/python_pandas.md#pdapply) `fillna` `dropna` `isna` `isnull` `replace`
 
 ## pd.DataFrame
 ```py
