@@ -1,8 +1,12 @@
 # matplotlib 📈
+Basics
 - 00_Prep
 - 01_Plot
 - 02_Labels
 - 03_Output
+
+Advances
+- [01_Date_Tick_Labels]()
 
 ### 00_Prep
 Build a canvas for the plot
@@ -82,4 +86,5 @@ plt.show()
 plt.savefig("img/" + "work_trend" + ".png")
 ```
 
+## 01_Date_Tick_Labels
 
