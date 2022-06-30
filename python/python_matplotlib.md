@@ -6,7 +6,7 @@ Basics
 - 03_Output
 
 Advances
-- [01_Date_Tick_Labels]()
+- [Date_Tick_Labels]()
 
 ### 00_Prep
 Build a canvas for the plot
@@ -86,5 +86,88 @@ plt.show()
 plt.savefig("img/" + "work_trend" + ".png")
 ```
 
-## 01_Date_Tick_Labels
+------------------
+
+### Date_Tick_Labels
+
+### 00_Prep
+Build a canvas for the plot
+```py
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+import matplotlib.cbook as cbook
+
+# Start the canvas 
+fig, axs = plt.subplots(
+    3, 1, # 3 rows 1 column
+    figsize = (6.4, 7),  
+    constrained_layout = True
+)
+```
+
+### 01_Plot
+```py
+# Basic plot: common to all three:
+for ax in axs:
+    ax.plot(
+        "date",      # x-axis column
+        "adj_close", # y-axis column
+        data = data, # data
+    )
+    # Major ticks every half year, minor ticks every month,
+    ax.xaxis.set_major_locator(mdates.MonthLocator(bymonth=(1, 7)))
+    ax.xaxis.set_minor_locator(mdates.MonthLocator())
+    
+    # Labelling
+    ax.grid(True)
+    ax.set_ylabel(r"Price [\$]")
+```
+
+### 02_Labels
+Different formats for each plot
+```py
+# Plot 1
+ax = axs[0]
+ax.set_title(
+    'DefaultFormatter', 
+    loc='left', 
+    y=0.85, 
+    x=0.02, 
+    fontsize='medium'
+)
+
+# Plot 2
+ax = axs[1]
+ax.set_title(
+    'ConciseFormatter', 
+    loc='left', 
+    y=0.85, 
+    x=0.02, f
+    ontsize='medium'
+)
+ax.xaxis.set_major_formatter(
+    mdates.ConciseDateFormatter(
+        ax.xaxis.get_major_locator()
+        ))
+
+# Plot 3
+ax = axs[2]
+ax.set_title(
+    'Manual DateFormatter', 
+    loc='left', 
+    y=0.85, 
+    x=0.02,
+    fontsize='medium'
+    )
+    
+# Text in the x axis will be displayed in 'YYYY-mm' format.
+ax.xaxis.set_major_formatter(
+    mdates.DateFormatter('%Y-%b'))
+
+# Rotates and right-aligns the x labels so they don't crowd each other.
+for label in ax.get_xticklabels(which='major'):
+    label.set(rotation=30, horizontalalignment='right')
+```
+
+![image](https://user-images.githubusercontent.com/33378140/176675843-3fb21bed-3376-4a62-b2a4-5a0347c7396b.png)
 
