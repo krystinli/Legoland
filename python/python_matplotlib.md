@@ -88,10 +88,9 @@ plt.show()
 plt.savefig("img/" + "work_trend" + ".png")
 ```
 
-------------------
+![image](https://user-images.githubusercontent.com/33378140/176675843-3fb21bed-3376-4a62-b2a4-5a0347c7396b.png)
 
-### Date_Tick_Labels
-
+## Date_Tick_Labels
 ### 00_Prep
 Build a canvas for the plot
 ```py
@@ -170,6 +169,4 @@ ax.xaxis.set_major_formatter(
 for label in ax.get_xticklabels(which='major'):
     label.set(rotation=30, horizontalalignment='right')
 ```
-
-![image](https://user-images.githubusercontent.com/33378140/176675843-3fb21bed-3376-4a62-b2a4-5a0347c7396b.png)
 
