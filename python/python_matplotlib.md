@@ -6,7 +6,7 @@
 - 03_Output
 
 **Advances**
-- [Date_Tick_Labels]()
+- [Date_Tick_Labels](https://github.com/krystinli/Legoland/blob/main/python/python_matplotlib.md#date_tick_labels)
 
 ---------------------
 
