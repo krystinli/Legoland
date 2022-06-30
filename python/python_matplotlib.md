@@ -26,6 +26,15 @@ ax.plot(
     data = data, # dataframe with pre-specified index as the x-axis
 )
 
+# Equivalanet plot
+ax.plot(
+    data.index, # x-axis
+    data.Work,  # y-axis
+    linewidth = 1,
+    marker = 'o',
+    markersize = 8,
+)
+
 # With parameters
 ax.plot(
     colname,
@@ -71,7 +80,6 @@ plt.legend()
 ```py
 plt.show()
 plt.savefig("img/" + "work_trend" + ".png")
-
 ```
 
 
