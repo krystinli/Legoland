@@ -1,6 +1,9 @@
 ## matplotlib 📈
+- 00_Prep
+- 01_Plot
+- 02_Labels
 
-### 00_Canvas
+### 00_Prep
 Build a canvas for the plot
 ```py
 import matplotlib.pyplot as plt
@@ -31,4 +34,9 @@ ax.plot(
     markersize = 8,
 )
 ```
+
+### 02_Labels
+```py
+```
+
 
