@@ -1,11 +1,11 @@
 # matplotlib 📈
-Basics
+**Basics**
 - 00_Prep
 - 01_Plot
 - 02_Labels
 - 03_Output
 
-Advances
+**Advances**
 - [Date_Tick_Labels]()
 
 ### 00_Prep
