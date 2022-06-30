@@ -1,7 +1,8 @@
-## matplotlib 📈
+# matplotlib 📈
 - 00_Prep
 - 01_Plot
 - 02_Labels
+- 03_Output
 
 ### 00_Prep
 Build a canvas for the plot
