@@ -3,7 +3,7 @@
 - [02_critical_value](https://github.com/krystinli/Legoland/blob/main/stats_basics/13_Power.md#02_critical_value)
 - [03_error](https://github.com/krystinli/Legoland/blob/main/stats_basics/13_Power.md#03_error)
 
-The power of a test is the probability of correctly rejecting the null hypothesis. As your sample size increases, so does the power of your test.
+The power of a test is the **probability of correctly rejecting the null hypothesis**. As your sample size increases, so does the power of your test.
 - This should intuitively make sense as a larger sample means that you have collected more information -- which makes it easier to correctly reject the null hypothesis when you should.
 - To ensure that your sample size is big enough, you will need to conduct a power analysis calculation, which require:
   - What type of test you plan to use (e.g., independent t-test, paired t-test, ANOVA, regression, ...)
