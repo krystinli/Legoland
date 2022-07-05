@@ -168,4 +168,4 @@ for label in ax.get_xticklabels(which='major'):
     label.set(rotation=30, horizontalalignment='right')
 ```
 
-<img src="https://user-images.githubusercontent.com/33378140/176675843-3fb21bed-3376-4a62-b2a4-5a0347c7396b.png" width=800 />
+<img src="https://user-images.githubusercontent.com/33378140/176675843-3fb21bed-3376-4a62-b2a4-5a0347c7396b.png" width=600 />
