@@ -1,6 +1,6 @@
 # Population vs. Samples
 - [00_Basic_Properties]() variance, standard deviation, standard error
-- [01_descriptive_stats](https://github.com/krystinli/Legoland/blob/main/stats_basics/01_Population_Sampling.md#01_descriptive_stats)
+- [01_descriptive_stats](https://github.com/krystinli/Legoland/blob/main/stats_basics/01_Population_Sampling.md#01_descriptive_stats) mode, median, mean
 - [02_variability](https://github.com/krystinli/Legoland/blob/main/stats_basics/01_Population_Sampling.md#02_variability-)
 - [03_relationship_between_variables](https://github.com/krystinli/Legoland/blob/main/stats_basics/01_Population_Sampling.md#03_relationship_between_variables)
 
@@ -25,7 +25,6 @@ Where're Mode, Median, and Mean for different skewness?
 
 <img src="https://miro.medium.com/max/4076/1*mmR37EUaPQdIxqruxBNI5Q.png" width=700 />
 
-**Metrics**
 - **Mean:** The average of the dataset.
 - **Median:** The middle value of an ordered dataset.
 - **Mode:** The most frequently value in the dataset; we could have a multimodal distribution.
