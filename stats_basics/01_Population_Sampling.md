@@ -1,5 +1,5 @@
 # Population vs. Samples
-- [00_Basic_Properties]()
+- [00_Basic_Properties]() variance, standard deviation, standard error
 - [01_descriptive_stats](https://github.com/krystinli/Legoland/blob/main/stats_basics/01_Population_Sampling.md#01_descriptive_stats)
 - [02_variability](https://github.com/krystinli/Legoland/blob/main/stats_basics/01_Population_Sampling.md#02_variability-)
 - [03_relationship_between_variables](https://github.com/krystinli/Legoland/blob/main/stats_basics/01_Population_Sampling.md#03_relationship_between_variables)
