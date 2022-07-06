@@ -1,1 +1,1 @@
-## Statistics, Probability, and Experimentation 
+## Statistics
