@@ -22,5 +22,6 @@
   - Data Infrastructure and Pipelines
   - Data lenage/optimization   
   - Python Packages
-- Machine Learning Engineer
+- **Machine Learning Engineer**
   - Data Modeling 
+  - Productionize 
