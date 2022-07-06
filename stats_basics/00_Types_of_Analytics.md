@@ -11,3 +11,16 @@
 - **Prescriptive Analytics** 
   - Provides recommendations regarding actions that will take advantage of the predictions 
   - Guide the possible actions toward a solution
+
+## Types_of_Data_Jobs
+- **Product Analyst**
+  - SQL/Pandas
+  - Experimentation
+  - Product Insights 
+  - Ad-hoc Analysis 
+- **Data Engineering**
+  - Data Infrastructure and Pipelines
+  - Data lenage/optimization   
+  - Python Packages
+- Machine Learning Engineer
+  - Data Modeling 
