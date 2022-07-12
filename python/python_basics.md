@@ -1,5 +1,4 @@
-# python_basics
-- [ ] os
+# Python_Basics
 - [ ] lambda
 - [ ] datetime
 - [ ] strftime
@@ -10,12 +9,7 @@
 - [ ] random_num
 - [ ] matplotlib
 - [ ] time.time()
-
-### os
-```py
-cwd = os.getcwd()
-os.chdir("../newfolder")
-```
+- [x] os
 
 ### lambda
 ```py
@@ -151,4 +145,26 @@ import numpy as np
 a = np.random.randn(100,100)
 %timeit np.dot(a, a)
 >> 35.6 µs ± 256 ns per loop (mean ± std. dev. of 7 runs, 10000 loops each)
+```
+
+### OS
+The OS module in Python provides functions for interacting with the operating system. OS comes under Python’s standard utility modules. 
+```py
+import os 
+
+# 1) Current Path
+cwd = os.getcwd() # Get the current working directory
+os.chdir("../newfolder")
+
+# 2) Join Path
+directory = "Documents"
+parent_dir = "home/user/"
+path = os.path.join(parent_dir, directory) 
+
+mode = 0o666
+os.mkdir(path, mode) 
+
+3) Get the list of all files under root
+path = "/"
+dir_list = os.listdir(path) 
 ```
