@@ -164,7 +164,7 @@ path = os.path.join(parent_dir, directory)
 mode = 0o666
 os.mkdir(path, mode) 
 
-3) Get the list of all files under root
+# 3) Get the list of all files under root
 path = "/"
 dir_list = os.listdir(path) 
 ```
