@@ -9,7 +9,7 @@
 - [ ] random_num
 - [ ] matplotlib
 - [ ] time.time()
-- [x] os
+- [x] [os](https://github.com/krystinli/Legoland/blob/main/python/python_basics.md#os)
 
 ### lambda
 ```py
