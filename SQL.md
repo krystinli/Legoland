@@ -1,7 +1,8 @@
 # Common_Functions
 
 ```sql
--- Syntax recap
+-- Syntax
+curdate() # today
 
 -- 1) window function 
 ROW_NUMBER() OVER (PARTITION BY ... ORDER BY ...) as row_num -- does NOT re-rank duplicated values 
