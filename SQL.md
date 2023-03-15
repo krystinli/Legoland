@@ -9,6 +9,8 @@ ROW_NUMBER() OVER (PARTITION BY ... ORDER BY ...) as row_num -- does NOT re-rank
 SUM(daily_sales) OVER (order by date_) as rolling_sum -- cumulative sum 
 FIRST_VALUE(col_name) OVER (PARTITION BY ... ORDER BY ...) as col_name -- does NOT dedup, need to sel distinct 
 
+# look into lead and lag function
+
 -- 2) dates
 YEAR(ts) # '2021'
 datepart(hour, order_created_at) # get the hour from timestamp
