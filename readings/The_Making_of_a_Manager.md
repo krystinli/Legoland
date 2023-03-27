@@ -15,6 +15,9 @@ Manager's work in 3 buckets:
     - Coach individuals to do their best   
 - **Process**
 
+
+-------------
+
 Hackman's research describes 5 conditions that increase a team's odds of success:
 1. Having a real team - one with clear boundaries and stable membership
 2. A compelling direction
