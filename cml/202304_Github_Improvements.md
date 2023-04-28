@@ -1,11 +1,11 @@
 # Github_Improvements 🚧
-- [x] **01_Command_Line_Skin** - Pretty CML Skin
-- [x] 02_Github_Profile
+- [x] **01_Terminal_Makeover** - Pretty CML Skin
+- [x] **02_Github_Profile** - Set up a fancy readme
 - [ ] 03_Dynamic_Git_Profile
 - [ ] 04_Github_Actions
 
-## 01_Terminal_Makeover [[blog]](https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99)  
-- [x] 1) Theme
+## 01_Terminal_Makeover  
+- [x] 1) Theme [[blog]](https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99) 
   - Homebrew: `https://brew.sh/` installs packages to their own directory and then symlinks their files into /opt/homebrew
   - [starship](https://starship.rs/)
 - [x] 2) [ohmyzsh!](https://github.com/ohmyzsh/ohmyzsh)
@@ -20,6 +20,8 @@
 **Anaconda_Path_Fix**
 - `source /opt/anaconda3/bin/activate`
 - `conda init zsh`
+
+<br />
 
 ## 02_Github_Profile
 Goal: add more personality to my github profile and make it less boring 🤠
