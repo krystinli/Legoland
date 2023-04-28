@@ -1,4 +1,4 @@
-# Github_Improvements 🚧
+# Gith_Improve 🚧
 - [x] **01_Terminal_Makeover** - Pretty CML Skin
 - [x] **02_Github_Profile** - Set up a fancy readme
 - [ ] 03_Dynamic_Git_Profile
