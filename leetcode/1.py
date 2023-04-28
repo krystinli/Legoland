@@ -1,11 +1,11 @@
-# solution 1
-# Runtime: 4287 ms, faster than 22.47% 
-# Memory Usage: 14.9 MB, less than 95.81% 
+# Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+# Input: nums = [2,7,11,15], target = 9 => Output: [0,1]
+# Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        for i in range(len(nums)):
-            for j in range(i+1, len(nums)):
-                if nums[i] + nums[j] == target:
-                    lst = [i, j]
-        return lst
+# Solution 1
+def twoSum(self, nums: List[int], target: int) -> List[int]:
+    for i in range(len(nums)):
+        for j in range(i+1, len(nums)):
+            if nums[i] + nums[j] == target:
+                lst = [i, j]
+    return lst
