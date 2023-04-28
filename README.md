@@ -1,5 +1,5 @@
 # Legoland
 The building blocks of knowledge 📑
-- [ ] **Stats_Basics**: trust worthy online controlled experiments
+1. **cml**: commandline 
 
 ![](https://cdn4.iconfinder.com/data/icons/childhood-and-toys/53/31-512.png)
