@@ -18,11 +18,15 @@
 - `source /opt/anaconda3/bin/activate`
 - `conda init zsh`
 
+<br />
+
 ### 02_Github_Profile
 Goal: add more personality to my github profile and make it less boring 🤠
 - [x] Add a [profile_readme](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
   - A couple of templates I like .. [[Jan]](https://github.com/jborchma) and [[Ian]](https://github.com/ian-whitestone)
 - [x] Add bio
+
+<br />
 
 ### 03_Dynamic_Git_Profile
 - [x] Install npm 
@@ -36,6 +40,8 @@ Goal: add more personality to my github profile and make it less boring 🤠
 4. Install dependencies
 5. Generate README file
 6. Commit and Push new `README.md` to the repository
+
+<br />
 
 ### 04_Github_Actions
 [learn-github-actions](https://docs.github.com/en/actions/learn-github-actions)
