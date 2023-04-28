@@ -1,10 +1,10 @@
 # Github_Improvements 🚧
-- [x] 01_Command_Line_Skin - Pretty CML Skin
+- [x] **01_Command_Line_Skin** - Pretty CML Skin
 - [x] 02_Github_Profile
 - [ ] 03_Dynamic_Git_Profile
 - [ ] 04_Github_Actions
 
-### 01_Command_Line_Skin
+## 01_Command_Line_Skin
 - [ ] 1) [starship](https://starship.rs/)
 - [x] 2) [ohmyzsh!](https://github.com/ohmyzsh/ohmyzsh)
   - [[themes]](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) `cloud` `half-life` `jonathan`
@@ -18,9 +18,7 @@
 - `source /opt/anaconda3/bin/activate`
 - `conda init zsh`
 
-<br />
-
-### 02_Github_Profile
+## 02_Github_Profile
 Goal: add more personality to my github profile and make it less boring 🤠
 - [x] Add a [profile_readme](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
   - A couple of templates I like .. [[Jan]](https://github.com/jborchma) and [[Ian]](https://github.com/ian-whitestone)
