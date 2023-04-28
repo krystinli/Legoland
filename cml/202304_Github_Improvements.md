@@ -5,10 +5,12 @@
 - [ ] 04_Github_Actions
 
 ## 01_Command_Line_Skin
-- [ ] 1) [Terminal Makeover](https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99)  
+- [ ] 1) [[Terminal Makeover]](https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99)  
   - Homebrew: `https://brew.sh/` installs packages to their own directory and then symlinks their files into /opt/homebrew
   - [starship](https://starship.rs/)
 - [x] 2) [ohmyzsh!](https://github.com/ohmyzsh/ohmyzsh)
+  - Zsh is a shell designed for interactive use and it is also a powerful scripting language
+  - Oh-My-Zsh is an open-source, community-driven framework for managing your ZSH configuration
   - [[themes]](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) `cloud` `half-life` `jonathan`
   - `vim ~/.zshrc` change theme!
 - [x] 3) [bash-it](https://github.com/Bash-it/bash-it)
