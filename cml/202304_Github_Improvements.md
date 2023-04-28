@@ -6,7 +6,8 @@
 
 ## 01_Command_Line_Skin
 - [ ] 1) [Terminal Makeover](https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99)  
-  - [ ] [starship](https://starship.rs/)
+  - Homebrew: `https://brew.sh/` installs packages to their own directory and then symlinks their files into /opt/homebrew
+  - [starship](https://starship.rs/)
 - [x] 2) [ohmyzsh!](https://github.com/ohmyzsh/ohmyzsh)
   - [[themes]](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) `cloud` `half-life` `jonathan`
   - `vim ~/.zshrc` change theme!
