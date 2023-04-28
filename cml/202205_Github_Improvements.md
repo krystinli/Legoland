@@ -4,10 +4,6 @@
 - [ ] 03_Dynamic_Git_Profile
 - [ ] 04_Github_Actions
 
-## 00_Anaconda_Path_Fix
-- `source /opt/anaconda3/bin/activate`
-- `conda init zsh`
-
 ## 01_Command_Line_Skin
 - [ ] 1) [starship](https://starship.rs/)
 - [x] 2) [ohmyzsh!](https://github.com/ohmyzsh/ohmyzsh)
@@ -16,6 +12,10 @@
 - [x] 3) [bash-it](https://github.com/Bash-it/bash-it)
   - [[themes]](https://bash-it.readthedocs.io/en/latest/themes-list/#list-of-themes) `export BASH_IT_THEME="Metal"`
   - `sudo chown usr ~/.bash_profile`
+  
+**Anaconda_Path_Fix**
+- `source /opt/anaconda3/bin/activate`
+- `conda init zsh`
 
 ## 02_Github_Profile
 Goal: add more personality to my github profile and make it less boring 🤠
