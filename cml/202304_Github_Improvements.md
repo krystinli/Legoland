@@ -12,6 +12,7 @@
 - [x] 3) [bash-it](https://github.com/Bash-it/bash-it)
   - [[themes]](https://bash-it.readthedocs.io/en/latest/themes-list/#list-of-themes) `export BASH_IT_THEME="Metal"`
   - `sudo chown usr ~/.bash_profile`
+- [] 4) [Terminal Makeover](https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99)  
   
 **Anaconda_Path_Fix**
 - `source /opt/anaconda3/bin/activate`
