@@ -4,7 +4,8 @@ The building blocks of knowledge 📑
 2) **leetcode**: problem set
 
 ### News
-- [techcrunch](https://techcrunch.com/)
+- [TC](https://techcrunch.com/)
+- [CTV](https://www.ctvnews.ca/)
 
 
 
