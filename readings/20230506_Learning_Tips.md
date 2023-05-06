@@ -7,7 +7,7 @@ People solve problems by searching through a problem space:
 - But you don’t know how to get there
 - Along the way, you’re constrained in your movements by the maze’s walls
 
-**Learning is the process of acquiring patterns and methods to cut down on brute-force searching**
+### Learning is the process of acquiring patterns and methods to cut down on brute-force searching
 - Searching through the space of possibilities 
 - Is a good characterization of what people do when solving unfamiliar problems
 - Meaning when they don’t yet have a method or memory that guides them directly to the answer
