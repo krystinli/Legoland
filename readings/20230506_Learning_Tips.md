@@ -37,10 +37,9 @@ Transfer refers to enhanced abilities in one task after practice or training in 
 
 While skills may be specific, breadth creates generality:
 - Knowing one idea may matter little, but mastering many can give enormous power
-
 ![image](https://user-images.githubusercontent.com/33378140/236644779-df095e8c-0b79-4b5a-8f2d-93af2b2b97df.png)
 
-### 6)
+### 6) Mental bandwidth is extremely limited
 
 ### 7)
 
