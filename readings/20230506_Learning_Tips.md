@@ -11,7 +11,6 @@ People solve problems by searching through a problem space:
 - Searching through the space of possibilities is a characterization of what people do when solving unfamiliar problems
 - Meaning when they don’t yet have a method or memory that guides them directly to the answer
 - One implication is that, without prior knowledge, most problems are really difficult to solve
-
 ![image](https://user-images.githubusercontent.com/33378140/236643994-0bf922e0-9c2a-465b-ad51-5702292f3b4a.png)
 
 ### 2) Memory strengthens by retrieval
@@ -20,7 +19,13 @@ Retrieving knowledge strengthens memory more than seeing something for a second 
 - The brain economizes effort by remembering only those things that are likely to prove useful
 
 ### 3) Knowledge grows exponentially
-- 
+How much you’re able to learn depends on what you already know:
+- The the amount of knowledge retained from a text depends on prior knowledge of the topic
+- As you learn new things, you integrate them into what you already know
+- This integration provides more hooks for you to recall that information later
+
+The early phases of learning are often the hardest and can give a misleading impression of future difficulty within a field
+![image](https://user-images.githubusercontent.com/33378140/236644552-3f6198a1-6a4f-4757-adb7-265bcef788c5.png)
 
 ### 4)
 
