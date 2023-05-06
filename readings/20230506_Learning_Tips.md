@@ -14,9 +14,13 @@ People solve problems by searching through a problem space:
 
 ![image](https://user-images.githubusercontent.com/33378140/236643994-0bf922e0-9c2a-465b-ad51-5702292f3b4a.png)
 
-### 2)
+### 2) Memory strengthens by retrieval
+Retrieving knowledge strengthens memory more than seeing something for a second time does
+- Testing knowledge isn’t just a way of measuring what you know — it actively improves your memory
+- The brain economizes effort by remembering only those things that are likely to prove useful
 
-### 3)
+### 3) Knowledge grows exponentially
+- 
 
 ### 4)
 
