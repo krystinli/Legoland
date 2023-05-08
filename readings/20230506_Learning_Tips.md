@@ -1,5 +1,15 @@
 ## 10 Mental Models for Learning
 [[medium]](https://medium.com/better-humans/10-mental-models-for-learning-anything-318446320c1e)
+1. Problem solving is search
+2. Memory strengthens by retrieval
+3. Knowledge grows exponentially
+4. Creativity is mostly copying
+5. Skills are specific
+6. Mental bandwidth is extremely limited
+7. Success is the best teacher
+8. We reason through examples
+9. Knowledge becomes invisible with experience
+10. Relearning is relatively fast
 
 ### 1) Problem solving is search
 People solve problems by searching through a problem space:
@@ -40,17 +50,29 @@ While skills may be specific, breadth creates generality:
 ![image](https://user-images.githubusercontent.com/33378140/236644779-df095e8c-0b79-4b5a-8f2d-93af2b2b97df.png)
 
 ### 6) Mental bandwidth is extremely limited
+Subliminal learning doesn’t work
+- George Miller initially pegged the number at seven, plus or minus two items
+- But more recent work has suggested the number is closer to four things
+- Devoting bandwidth to irrelevant elements may slow us down
 
-### 7)
+Cognitive load thoery:
+- Problem solving may be counterproductive for beginners. Novices do better when shown worked examples (solutions)
+- Materials should be designed to avoid needing to flip between pages
+- Redundant information impedes learning
+- Complex ideas can be learned more easily when presented first in parts
 
-### 8)
+### 7) Success is the best teacher
+We learn more from success than failure - aim for a roughly 85% success rate when learning
+- Problem spaces are typically large, and most solutions are wrong
+- Knowing what works cuts down the possibilities dramatically
+- whereas experiencing failure only tells you one specific strategy doesn’t work
 
-### 9)
+### 8) We reason through examples
+Logic can’t be acquired from experience. Somehow, we must already know the rules of logic
+- Learning is often faster through examples than abstract descriptions
+- To learn a general pattern, we need many examples
+- We must watch out when making broad inferences based on a few examples
 
-### 10)
-
-
-
-
-
-
+### 9) Knowledge becomes invisible with experience
+Skills become increasingly automated through practice. This reduces our conscious awareness of the skill.
+- When knowledge becomes tacit, it becomes harder to make explicit how you make a decision
