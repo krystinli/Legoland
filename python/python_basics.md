@@ -1,6 +1,5 @@
 # Python_Basics
 - [x] datetime
-- [ ] strftime
 - [ ] strptime
 - [ ] lambda
 - [ ] isinstance
@@ -19,19 +18,12 @@ from datetime import date, datetime as dt
 # datetime object containing current date and time
 today = date.today()
 today.month
+
 current_ts = datetime.now()
 
 today_formatted = today.strftime("%Y-%m-%d")
-today_formatted => '2023-05-10'
-```
-
-### strftime
-formats a datetime as a string
-```py
-dt.strftime('%y-%m-%d') >>> '20-08-05'
-
-dt = datetime(2020, 10, 25)
-dt.strftime("%B") >>> 'October'
+today_formatted >>> '2023-05-10'
+today.strftime("%B") >>> 'May'
 ```
 
 ### strptime
