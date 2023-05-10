@@ -14,11 +14,15 @@
 ### datetime
 ```py
 import datetime
-from datetime import datetime, date
+from datetime import date, datetime as dt
 
-# year, month, date, hour, min, second
+# datetime object containing current date and time
 today = date.today()
 today.month
+current_ts = datetime.now()
+
+today_formatted = today.strftime("%Y-%m-%d")
+today_formatted => '2023-05-10'
 ```
 
 ### lambda
