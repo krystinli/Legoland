@@ -1,6 +1,6 @@
 # Python_Basics
-- [ ] lambda
 - [ ] datetime
+- [ ] lambda
 - [ ] strftime
 - [ ] strptime
 - [ ] isinstance
@@ -10,6 +10,16 @@
 - [ ] matplotlib
 - [ ] time.time()
 - [x] [os](https://github.com/krystinli/Legoland/blob/main/python/python_basics.md#os)
+
+### datetime
+```py
+import datetime
+from datetime import datetime, date
+
+# year, month, date, hour, min, second
+today = date.today()
+today.month
+```
 
 ### lambda
 ```py
@@ -24,16 +34,7 @@ mydoubler = myfunc(2)
 mydoubler(11) >>> 22
 ```
 
-### datetime
-Given a datetime instance, you can extract the eqv date and time objects.
-```py
-import datetime
-from datetime import datetime, date, time
 
-# year, month, date, hour, min, second
-dt = datetime(2020, 8, 5, 11, 11, 11)
-dt.month >>> 8
-```
 
 ### strftime
 formats a datetime as a string
