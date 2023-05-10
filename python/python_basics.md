@@ -1,8 +1,8 @@
 # Python_Basics
-- [ ] datetime
-- [ ] lambda
+- [x] datetime
 - [ ] strftime
 - [ ] strptime
+- [ ] lambda
 - [ ] isinstance
 - [ ] notebook
 - [ ] data_load
@@ -25,21 +25,6 @@ today_formatted = today.strftime("%Y-%m-%d")
 today_formatted => '2023-05-10'
 ```
 
-### lambda
-```py
-x = lambda a, b : a * b
-x(5, 6) >>> 30
-
-# nested function 
-def myfunc(n):
-  return lambda a : a * n
-
-mydoubler = myfunc(2)
-mydoubler(11) >>> 22
-```
-
-
-
 ### strftime
 formats a datetime as a string
 ```py
@@ -53,6 +38,19 @@ dt.strftime("%B") >>> 'October'
 str parsed into datetime objects
 ```py
 datetime.strptime("202008", "%Y%m") >>> datetime.datetime(2020, 8, 1, 0, 0)
+```
+
+### lambda
+```py
+x = lambda a, b : a * b
+x(5, 6) >>> 30
+
+# nested function 
+def myfunc(n):
+  return lambda a : a * n
+
+mydoubler = myfunc(2)
+mydoubler(11) >>> 22
 ```
 
 ### isinstance(target, type)->bool
