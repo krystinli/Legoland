@@ -1,4 +1,4 @@
-# Hypothesis Testing with Binomial Dist 🔢
+## Hypothesis Testing with Binomial Distribution 🧪
 To hypothesis test with the binomial distribution, we must calculate the probability **p** of the observed event and any more extreme event happening. We compare this to the level of significance **α**:
 - If `p > α` then we **do not reject** the null hypothesis
 - If `p < α` then we **accept** the alternative hypothesis
