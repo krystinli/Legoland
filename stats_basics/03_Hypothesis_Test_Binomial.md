@@ -12,7 +12,7 @@ The important thing to note here is that we only need a **one-tailed** test as t
 
 We need to calculate more than just the probability that it lands on heads 6 times. If it landed on heads fewer than 6 times, that would be even more evidence that the coin is biased in favour of tails. Consequently we need to add up the probability of it landing on heads 1 time, 2 times, … all the way up to 6 times.
 
-Although a calculation is possible, it is much quicker to use the cumulative [binomial distribution table](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://baek.math.umbc.edu/stat355/binomial.pdf). 
+Although a calculation is possible, it is much quicker to use the cumulative binomial distribution table: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://baek.math.umbc.edu/stat355/binomial.pdf 
 - This gives `P[X<=6]=0.058` => Probability of landing < 6 heads with 20 tosses
 
 
