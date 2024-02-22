@@ -3,6 +3,8 @@ Conditional Probability is the likelihood of an outcome occuring basd on previou
 - `P(A|B)=P(A∩B)/P(B)`
 - `P(A∩B)=P(B|A).P(A)`
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJXf80PLmJSHMUtihnxJHNdrTFO6X8eebgtg&usqp=CAU">
+
 ### Bayes’ Theorem
 - Describes the probability of an event based on prior knowledge of conditions that might be related to the event
 - It provides a way to revise existing predictions or update probability given new additional avidence 
