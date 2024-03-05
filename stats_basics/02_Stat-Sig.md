@@ -20,3 +20,25 @@ Statistically significance means that a difference between 2 groups is NOT just 
 - `p-value`: What is the probability that we observe this value given we assume the probabilty distribution is true?
   -  If `p < a`: the observed value is stat-sig since the chance of this observation being random is low;
   -  If `p > a`: the observed value is NOT stat-sig since this is likely due to chance!
+
+## 3) One or Two Tail 🍸
+Looking for stat-sig in 1 direction is a one-tail test:
+- We allot all a in one direction
+- while completely ignoring the possibility that the effect could be in the other direction
+- It's easier to reach stat-sig
+
+If we care NOT only about whether a treatment increase a metric, but also whether it decreases a metric:
+- When we apply a treatment to a sample, we hope for a + result but we don't know for sure
+- We're looking at any change, not just increase or decrease
+- Hence, a (0,05) is split in half, at both ends of the distribution
+- This means we need to observe a more positive (top 2.5%) or more negative (bottom 2.5%) value to declare stat-sig
+- It's harder to reach stat-sig, but more applicable to business, as most treatment can go both ways 
+
+## 4) Alpha & Beta 🐛
+Alpha, a is the probability of a false positive, or Type I Error
+- Alpha: The probability we reject H0 when it's in fact, a true false positive => Type I Error
+- Beta: Probability we couldn't reject H0 when there's a real diff, a false negative => Type II Error
+- Power: 1 - beta => greater power, smaller beta, more likely to reject H0 when observed diff not due to chance! 
+
+
+
