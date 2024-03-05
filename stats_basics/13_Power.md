@@ -1,9 +1,5 @@
 # Power
-- [01_significance_level_and_rejection_region](https://github.com/krystinli/Legoland/blob/main/stats_basics/13_Power.md#01_significance_level_and_rejection_region)
-- [02_critical_value](https://github.com/krystinli/Legoland/blob/main/stats_basics/13_Power.md#02_critical_value)
-- [03_error](https://github.com/krystinli/Legoland/blob/main/stats_basics/13_Power.md#03_error)
-
-The power of a test is the **probability of correctly rejecting the null hypothesis**. The power of your test increases with sample size.
+The power of a test is the **probability of correctly rejecting the null hypothesis** (1-beta, type II err), or true positive rate. The power of your test increases with sample size. 
 - This should intuitively make sense as a larger sample means that you have collected more information -- which makes it easier to correctly reject the null hypothesis when you should.
 - To ensure that your sample size is big enough, you will need to conduct a power analysis calculation, which require:
   - What type of test you plan to use (e.g., independent t-test, paired t-test, ANOVA, regression, ...)
@@ -31,6 +27,13 @@ A point on the scale of the test statistic beyond which we reject the null hypot
 - **Type II error** is the non-rejection of a false null hypothesis.
 
 <img src="https://miro.medium.com/max/4800/1*vpRxfDM8MHLtfTrO7Sx3zQ.png" width=800 />
+
+### 04_MDE
+MDE measures the experiment sensitivity:
+- A minimum improvement over the conversion rate of the existing asset
+  - (Baseline conversion rate) that you want the experiment to detect
+- Highly sensitive settings, or low MDE, come along with a big sample size
+- The lower the MDE is, the more traffic you need to detect minor changes, hence the more money you have to spend on driving that traffic
 
 <br />
 
