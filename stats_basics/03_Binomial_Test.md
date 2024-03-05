@@ -40,5 +40,6 @@ We are asked to perform the test at a 5% significance level. This means,
 - We don't have sufficient evidence to claim the coin is biased.
 
 ## 3) What if the coin had landed on heads 5 times? 
-
+- N = 20, p = 0.5, C = 5
+- P[X<5]
 
