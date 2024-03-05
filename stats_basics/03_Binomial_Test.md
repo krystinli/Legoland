@@ -1,7 +1,13 @@
 ## Hypothesis Testing with Binomial Distribution 🧪
-To hypothesis test with the binomial distribution, we must calculate the probability **p** of the observed event and any more extreme event happening. We compare this to the level of significance **α**:
-- If `p > α` then we **do not reject** the null hypothesis
-- If `p < α` then we **accept** the alternative hypothesis
+To hypothesis test with the binomial distribution, we must calculate the probability **p** of the observed event and any more extreme event happening:
+- Calculate probability of success under the null hypothesis
+- Determine the observed number of successes (X) in your sample: ie, getting 2 tail in 2 tosses;
+- Use the binomail probability formula to find the probability of observing X successes or more, => **p**
+  - Given the sample size N and probability of success 0.5
+- Compare p to sigificance level, ie  **α = 0.05**
+  - If `p > α` then we **do not reject** the null hypothesis
+  - If `p < α` then we **accept** the alternative hypothesis
+- Exact formula for p-value depends on 1-tail / 2-tail test
 
 ## Coin Flipping 🪙
 A coin is tossed 20 times, landing on heads 6 times. Perform a hypothesis test at a 5% significance level to see if the coin is biased:
