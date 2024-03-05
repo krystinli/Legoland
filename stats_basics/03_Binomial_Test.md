@@ -39,7 +39,7 @@ We are asked to perform the test at a 5% significance level. This means,
 - Now note that our p-value of 0.058 > 0.05 so we do not reject the null hypothesis
 - We don't have sufficient evidence to claim the coin is biased.
 
-## 3) What if the coin had landed on heads 5 times? 
+### 3) What if the coin had landed on heads 5 times? 
 - N = 20, p = 0.5, C = 5
 - P[X<5] = 0.021 => probability of observing 5 or less heads
 - Since p < a, we can reject the null hypothesis and claims that **the coin is biased in favour of tails**!
