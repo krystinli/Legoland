@@ -25,13 +25,12 @@ Although a calculation is possible, it is much quicker to use the cumulative bin
 - N = 20: sample size
 - X = 6: num of success in sample
 - p = 0.5: probability of 1 success
-- P[X<=6] = 0.058: probability of observing 6 or less 
+- P[X<=6] = 0.058: probability of observing 6 or less
+- This gives `P[X<=6]=0.058` => Probability of landing < 6 heads with 20 tosses! 
 
 <img width="456" alt="Screenshot 2024-02-22 at 12 54 23 AM" src="https://github.com/krystinli/Legoland/assets/33378140/bc9161e6-9db0-4a17-a821-3b0d6854fd59">
 
 <img width="696" alt="Screenshot 2024-03-05 at 9 59 38 AM" src="https://github.com/krystinli/Legoland/assets/33378140/f6153784-17e9-4196-b7df-19742c6960ed">
-
-This gives `P[X<=6]=0.058` => Probability of landing < 6 heads with 20 tosses
 
 ### 2) Significance
 We are asked to perform the test at a 5% significance level. This means,
