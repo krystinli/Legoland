@@ -1,4 +1,4 @@
-# Power
+# Power 🔋
 The power of a test is the **probability of correctly rejecting the null hypothesis** (1-beta, type II err), or true positive rate. The power of your test increases with sample size. 
 - This should intuitively make sense as a larger sample means that you have collected more information -- which makes it easier to correctly reject the null hypothesis when you should.
 - To ensure that your sample size is big enough, you will need to conduct a power analysis calculation, which require:
