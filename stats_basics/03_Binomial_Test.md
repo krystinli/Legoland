@@ -14,7 +14,9 @@ A coin is tossed 20 times, landing on heads 6 times. Perform a hypothesis test a
 - `H0`: The coin is not biased (ie. This happens at random)
 - `H1`: The coin is biased in favour of tails (This is not random)
 
-The important thing to note here is that we only need a **one-tailed** test as the alternative hypothesis says “in favour of tails”. A **two-tailed** test would be the result of an alternative hypothesis saying “The coin is biased”.
+The important thing to note here is that we only need a: 
+- **1-tailed** test as the alternative hypothesis says `in favour of tails`
+- **2-tailed** test would be an alternative hypothesis saying `The coin is biased`
 
 ### 1) Cumulative Binomial Distribution
 We need to calculate more than just the probability that it lands on heads 6 times. If it landed on heads fewer than 6 times, that would be even more evidence that the coin is biased in favour of tails. Consequently we need to add up the probability of it landing on heads 1 time, 2 times, … all the way up to 6 times.
