@@ -41,5 +41,7 @@ We are asked to perform the test at a 5% significance level. This means,
 
 ## 3) What if the coin had landed on heads 5 times? 
 - N = 20, p = 0.5, C = 5
-- P[X<5]
+- P[X<5] = 0.021 => probability of observing 5 or less heads
+- Since p < a, we can reject the null hypothesis and claims that **the coin is biased in favour of tails**!
+- Since this is where we switch to accepting the althernative hypothesis, 5 is the **critical value**.
 
