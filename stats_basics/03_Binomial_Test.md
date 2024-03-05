@@ -24,7 +24,8 @@ We need to calculate more than just the probability that it lands on heads 6 tim
 Although a calculation is possible, it is much quicker to use the cumulative binomial distribution table.
 
 <img width="456" alt="Screenshot 2024-02-22 at 12 54 23 AM" src="https://github.com/krystinli/Legoland/assets/33378140/bc9161e6-9db0-4a17-a821-3b0d6854fd59">
-- This gives `P[X<=6]=0.058` => Probability of landing < 6 heads with 20 tosses
+
+This gives `P[X<=6]=0.058` => Probability of landing < 6 heads with 20 tosses
 
 ### 2) Significance
 We are asked to perform the test at a 5% significance level. This means,
