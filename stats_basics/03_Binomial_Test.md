@@ -9,7 +9,7 @@ To hypothesis test with the binomial distribution, we must calculate the probabi
   - If `p < α` then we **accept** the alternative hypothesis
 - Exact formula for p-value depends on 1-tail / 2-tail test
 
-## Coin Flipping 🪙
+## [Coin Flipping](https://www.ncl.ac.uk/webtemplate/ask-assets/external/maths-resources/statistics/hypothesis-testing/hypothesis-testing-with-the-binomial-distribution.html) 🪙
 A coin is tossed 20 times, landing on heads 6 times. Perform a hypothesis test at a 5% significance level to see if the coin is biased:
 - `H0`: The coin is not biased (ie. This happens at random)
 - `H1`: The coin is biased in favour of tails (This is not random)
