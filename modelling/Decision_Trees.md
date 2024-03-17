@@ -40,7 +40,7 @@ Are used for residual modeling (ReMo):
 - gini impurity
 - misclassification impurity 
 
-**Stopping criterion**
+### Stopping criterion
 - Specify a **maximum height** for the tree (to not result in really large trees)
 - A node is split only if it has a certain **minimum number of samples** in it
 - maximum value for the **number of leaves**
