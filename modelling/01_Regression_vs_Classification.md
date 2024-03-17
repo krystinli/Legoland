@@ -5,18 +5,20 @@ Supervised Learning is when the algorithm learns on a **labeled dataset** and an
 
 The relation between Linear vs Logistic Regression is the fact that:
 - They both use labeled datasets to make predictions, but:
-- **1) Linear Regression** is used to solve `Regression problems`:
+- **1) Linear Regression** is used to solve `regression problems`:
   - Predicting a **continuous** output
   - by finding the correlations between dependent and independent variables 
-- **2) Logistic Regression** is used to solve `Classification problems`:
+- **2) Logistic Regression** is used to solve `classification problems`:
   - Classification is about **predicting a label**
   - by identifying which category an object belongs to based on different parameters 
-
-
 
 ## 1) Regression
 Make predictions on continuous dependent variables with the knowledge from independent variables:
 - The goal is to find the best fitting line, to be used to predict the output Y (continuous dependent variables)
 - Examples: house prices 🏚️, age 👵, and salary 💰
+- Simple Linear Regression is a regression model that:
+  - Estimates the relationship between 1 independent variable and 1 dependent variable using a straight line
+  - Multiple Linear Regression: ff there are >2 independent variables
+- Assuming linear relationship
 
 ## 2) Classification
