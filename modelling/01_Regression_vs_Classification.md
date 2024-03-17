@@ -1,7 +1,7 @@
 ## Logistic vs. Linear Regression 📈
 Supervised Learning is when the algorithm learns on a **labeled dataset** and analyses the training data. These labeled data sets have inputs and expected outputs. [[KDD]](https://www.kdnuggets.com/2022/03/linear-logistic-regression-succinct-explanation.html#:~:text=Linear%20Regression%20and%20Logistic%20Regression,used%20to%20solve%20Classification%20problems.) 
 
-- <img width="450" src="https://github.com/krystinli/Legoland/assets/33378140/eb554f29-a8f9-4c03-b8e2-fa96931238ef" />
+<img width="450" src="https://github.com/krystinli/Legoland/assets/33378140/eb554f29-a8f9-4c03-b8e2-fa96931238ef" />
 
 The relation between Linear vs Logistic Regression is the fact that:
 - They both use labeled datasets to make predictions, but:
@@ -12,7 +12,7 @@ The relation between Linear vs Logistic Regression is the fact that:
   - Classification is about **predicting a label**
   - by identifying which category an object belongs to based on different parameters 
 
-## 1) Linear Regression
+## 1) Linear Regression 🧵
 Make predictions on _continuous_ dependent variables with the knowledge from independent variables:
 - The goal is to find the best fitting line, to be used to predict the output Y (continuous dependent variables)
 - Examples: house prices 🏚️, age 👵, and salary 💰
@@ -20,13 +20,18 @@ Make predictions on _continuous_ dependent variables with the knowledge from ind
   - Estimates the relationship between 1 independent variable and 1 dependent variable using a straight line
   - Multiple Linear Regression: ff there are >2 independent variables
 - Assuming linear relationship:
-- <img width="450" src="https://github.com/krystinli/Legoland/assets/33378140/f43bc917-98bc-47e3-b548-86bcde154b0e"/>
+<img width="450" src="https://github.com/krystinli/Legoland/assets/33378140/f43bc917-98bc-47e3-b548-86bcde154b0e"/>
 
-## 2) Classification
+## 2) Classification 🪙
 Make predictions on _categorical_ dependent variable with the knowledge of independent variables:
 - Logistic Regression can be used for both Regression and Classification tasks
 - Example: whether it will rain today or not, by using 0 or 1, yes or no, or true and false ☂️
-- 
+- The overall aim of Logistic Regression is to classify outputs, which can only be between 0 and 1
+
+In Logistic Regression:
+- The weighted sum of inputs is passed through an activation function called **Sigmoid Function**
+- which maps values between 0 and 1:
+![image](https://github.com/krystinli/Legoland/assets/33378140/33a1421f-8da8-4fdb-bd53-d981c425ac1a)
 
 
 
