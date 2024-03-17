@@ -12,14 +12,22 @@ The relation between Linear vs Logistic Regression is the fact that:
   - Classification is about **predicting a label**
   - by identifying which category an object belongs to based on different parameters 
 
-## 1) Regression
-Make predictions on continuous dependent variables with the knowledge from independent variables:
+## 1) Linear Regression
+Make predictions on _continuous_ dependent variables with the knowledge from independent variables:
 - The goal is to find the best fitting line, to be used to predict the output Y (continuous dependent variables)
 - Examples: house prices 🏚️, age 👵, and salary 💰
 - Simple Linear Regression is a regression model that:
   - Estimates the relationship between 1 independent variable and 1 dependent variable using a straight line
   - Multiple Linear Regression: ff there are >2 independent variables
-- Assuming linear relationship: <img width="400" src="https://github.com/krystinli/Legoland/assets/33378140/f43bc917-98bc-47e3-b548-86bcde154b0e"/>
-
+- Assuming linear relationship: <img width="450" src="https://github.com/krystinli/Legoland/assets/33378140/f43bc917-98bc-47e3-b548-86bcde154b0e"/>
 
 ## 2) Classification
+Make predictions on _categorical_ dependent variable with the knowledge of independent variables:
+- Logistic Regression can be used for both Regression and Classification tasks
+- Example: whether it will rain today or not, by using 0 or 1, yes or no, or true and false ☂️
+- 
+
+
+
+
+
