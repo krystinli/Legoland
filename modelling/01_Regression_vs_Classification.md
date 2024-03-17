@@ -27,14 +27,15 @@ Make predictions on _categorical_ dependent variable with the knowledge of indep
 - Logistic Regression can be used for both Regression and Classification tasks
 - Example: whether it will rain today or not, by using 0 or 1, yes or no, or true and false ☂️
 - The overall aim of Logistic Regression is to classify outputs, which can only be between 0 and 1
+- Sigmoid function formula: <img width="150" src="https://www.kdnuggets.com/wp-content/uploads/arya_logistic_linear_regression_succinct_6.png" />
 
 In Logistic Regression:
 - The weighted sum of inputs is passed through an activation function called **Sigmoid Function**
 - which maps values between 0 and 1:
 <img width="400" src="https://github.com/krystinli/Legoland/assets/33378140/33a1421f-8da8-4fdb-bd53-d981c425ac1a" />
 
-Sigmoid function formula:
-<img width="150" src="https://www.kdnuggets.com/wp-content/uploads/arya_logistic_linear_regression_succinct_6.png" />
+
+
 
 
 
