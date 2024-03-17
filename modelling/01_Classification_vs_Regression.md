@@ -10,3 +10,8 @@
     - by identifying which category an object belongs to based on different parameters 
 
 ![image](https://github.com/krystinli/Legoland/assets/33378140/eb554f29-a8f9-4c03-b8e2-fa96931238ef)
+
+## 1) Regression
+
+
+## 2) Classification
