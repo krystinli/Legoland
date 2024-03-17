@@ -15,8 +15,8 @@ The relation between Linear vs Logistic Regression is the fact that:
 
 
 ## 1) Regression
-- Make predictions on continuous dep variables with the assistance and knowledge from independent variables
-- The goal is to find the line of best fit, to be used to predict the output for continuous dependent variables
-- Examples of continuous values: house prices 🏚️, age 👵, and salary 💰
+Make predictions on continuous dependent variables with the knowledge from independent variables:
+- The goal is to find the best fitting line, to be used to predict the output Y (continuous dependent variables)
+- Examples: house prices 🏚️, age 👵, and salary 💰
 
 ## 2) Classification
