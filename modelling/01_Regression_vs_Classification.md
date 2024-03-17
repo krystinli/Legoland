@@ -28,7 +28,7 @@ A mathematical formula used to calculate the error:
 - Measures how "wrong" the model with its ability to estimate the relationship between x and y
 - For linear regression, cost function = MSE (root mean squared error)
 
-<img width="350" src="https://www.kdnuggets.com/wp-content/uploads/arya_logistic_linear_regression_succinct_1.png" />
+<img width="300" src="https://www.kdnuggets.com/wp-content/uploads/arya_logistic_linear_regression_succinct_1.png" />
 
 ## 2) Classification 🪙
 Make predictions on _categorical_ dependent variable with the knowledge of independent variables:
