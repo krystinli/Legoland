@@ -9,11 +9,12 @@
     - Classification is about **predicting a label**
     - by identifying which category an object belongs to based on different parameters 
 
-<img width="400" src="https://github.com/krystinli/Legoland/assets/33378140/eb554f29-a8f9-4c03-b8e2-fa96931238ef" />
-
-![image](https://github.com/krystinli/Legoland/assets/33378140/eb554f29-a8f9-4c03-b8e2-fa96931238ef)
+<img width="450" src="https://github.com/krystinli/Legoland/assets/33378140/eb554f29-a8f9-4c03-b8e2-fa96931238ef" />
 
 ## 1) Regression
+- Make predictions on continuous dep variables with the assistance and knowledge from independent variables
+- The goal is to find the line of best fit, to be used to predict the output for continuous dependent variables
+- Examples of continuous values: house prices 🏚️, age 👵, and salary 💰
 
 
 ## 2) Classification
