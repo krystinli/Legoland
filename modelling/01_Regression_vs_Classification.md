@@ -22,9 +22,16 @@ Make predictions on _continuous_ dependent variables with the knowledge from ind
 - Assuming linear relationship:
 <img width="450" src="https://github.com/krystinli/Legoland/assets/33378140/f43bc917-98bc-47e3-b548-86bcde154b0e"/>
 
+### Cost Function
+A mathematical formula used to calculate the error:
+- The difference between our predicted vs. actual value
+- Measures how "wrong" the model with its ability to estimate the relationship between x and y
+- For linear regression, cost function = MSE (root mean squared error)
+
+<img width="150" src="https://www.kdnuggets.com/wp-content/uploads/arya_logistic_linear_regression_succinct_1.png" />
+
 ## 2) Classification 🪙
 Make predictions on _categorical_ dependent variable with the knowledge of independent variables:
-- Logistic Regression can be used for both Regression and Classification tasks
 - Example: whether it will rain today or not, by using 0 or 1, yes or no, or true and false ☂️
 - The overall aim of Logistic Regression is to classify outputs, which can only be between 0 and 1
 - In Logistic Regression, the weighted sum of inputs is passed through an activation function
@@ -32,6 +39,10 @@ Make predictions on _categorical_ dependent variable with the knowledge of indep
 - which maps values between 0 and 1:
 <img width="400" src="https://github.com/krystinli/Legoland/assets/33378140/33a1421f-8da8-4fdb-bd53-d981c425ac1a" />
 
+### Logistic Regression
+Can be used for both Regression and Classification tasks:
+- Is based on Maximum Likelihood Estimation
+- A method of estimating the parameters of an assumed probability distribution given some observed data
 
 
 
