@@ -33,18 +33,15 @@ A mathematical formula used to calculate the error:
 ## 2) Classification 🪙
 Make predictions on _categorical_ dependent variable with the knowledge of independent variables:
 - Example: whether it will rain today or not, by using 0 or 1, yes or no, or true and false ☂️
+- Logistic Regression: is based on Maximum Likelihood Estimation
+  - A method of estimating the parameters of an assumed probability distribution given some observed data
 - The overall aim of Logistic Regression is to classify outputs, which can only be between 0 and 1
 - In Logistic Regression, the weighted sum of inputs is passed through an activation function
 - Called **Sigmoid Function:** <img width="150" src="https://www.kdnuggets.com/wp-content/uploads/arya_logistic_linear_regression_succinct_6.png" />
 - which maps values between 0 and 1:
-<img width="400" src="https://github.com/krystinli/Legoland/assets/33378140/33a1421f-8da8-4fdb-bd53-d981c425ac1a" />
+<img width="300" src="https://github.com/krystinli/Legoland/assets/33378140/33a1421f-8da8-4fdb-bd53-d981c425ac1a" />
 
-### Logistic Regression
-Can be used for both Regression and Classification tasks:
-- Is based on Maximum Likelihood Estimation
-- A method of estimating the parameters of an assumed probability distribution given some observed data
-
-Cost Function
+**Cost Function**
 - Cannot use MSE because our prediction function is non-linear (due to sigmoid transform)
 - Therefore we use a cost function called Cross-Entropy, also known as **Log Loss**
 - Cross-entropy measures the difference between two probability distributions for a given random variable:
