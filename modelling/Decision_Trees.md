@@ -32,4 +32,11 @@ Are used for residual modeling (ReMo):
 - There's no guarantee a local decision will lead to a global optimal tree
   - one that best models the relationship between the attributes and the target
 
+## 1) How to construct a decision tree?
+**How to measure Impurity?** given a dataset of n points, these 3 methods assign a number to the set depending on how homogenous the set is: (more homogenous, lower impurity) 
+- entropy - scale of 0~1:
+  - 0 implies purity
+  - 1 is maximum heterogenity (ie. 50-50 split for a set of 2 classes)
+- gini impurity
+- misclassification impurity 
 
