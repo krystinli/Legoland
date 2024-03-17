@@ -31,7 +31,7 @@ Make predictions on _categorical_ dependent variable with the knowledge of indep
 In Logistic Regression:
 - The weighted sum of inputs is passed through an activation function called **Sigmoid Function**
 - which maps values between 0 and 1:
-![image](https://github.com/krystinli/Legoland/assets/33378140/33a1421f-8da8-4fdb-bd53-d981c425ac1a)
+<img width="400" src="https://github.com/krystinli/Legoland/assets/33378140/33a1421f-8da8-4fdb-bd53-d981c425ac1a" /)
 
 
 
