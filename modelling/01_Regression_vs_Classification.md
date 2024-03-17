@@ -38,8 +38,7 @@ Make predictions on _categorical_ dependent variable with the knowledge of indep
 - The overall aim of Logistic Regression is to classify outputs, which can only be between 0 and 1
 - In Logistic Regression, the weighted sum of inputs is passed through an activation function
 - called **Sigmoid Function:** <img width="150" src="https://www.kdnuggets.com/wp-content/uploads/arya_logistic_linear_regression_succinct_6.png" />
-- which maps values between 0 and 1:
-<img width="250" src="https://github.com/krystinli/Legoland/assets/33378140/33a1421f-8da8-4fdb-bd53-d981c425ac1a" />
+- which maps values between 0 and 1: <img width="300" src="https://github.com/krystinli/Legoland/assets/33378140/33a1421f-8da8-4fdb-bd53-d981c425ac1a" />
 
 ### Cost Function
 - Cannot use MSE because our prediction function is non-linear (due to sigmoid transform)
@@ -48,7 +47,7 @@ Make predictions on _categorical_ dependent variable with the knowledge of indep
 
 ![image](https://github.com/krystinli/Legoland/assets/33378140/4ae034f2-72b4-4da0-bc2f-423a36a680b8)
 
-
+## 3) Linear vs Logistic Comparison
 
 
 
