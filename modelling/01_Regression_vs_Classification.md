@@ -21,4 +21,7 @@ Make predictions on continuous dependent variables with the knowledge from indep
   - Multiple Linear Regression: ff there are >2 independent variables
 - Assuming linear relationship
 
+<img width="300" src="https://github.com/krystinli/Legoland/assets/33378140/f43bc917-98bc-47e3-b548-86bcde154b0e"/>
+
+
 ## 2) Classification
