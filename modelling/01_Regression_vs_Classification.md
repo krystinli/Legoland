@@ -1,5 +1,5 @@
 ## Logistic vs. Linear Regression 📈
-[[KDD]](https://www.kdnuggets.com/2022/03/linear-logistic-regression-succinct-explanation.html#:~:text=Linear%20Regression%20and%20Logistic%20Regression,used%20to%20solve%20Classification%20problems.) To recap, Supervised Learning is when the algorithm learns on a **labeled dataset** and analyses the training data. 
+[[KDD]](https://www.kdnuggets.com/2022/03/linear-logistic-regression-succinct-explanation.html#:~:text=Linear%20Regression%20and%20Logistic%20Regression,used%20to%20solve%20Classification%20problems.) Supervised Learning is when the algorithm learns on a **labeled dataset** and analyses the training data. 
 - These labeled data sets **have inputs and expected outputs**:
 
 The relation between Linear vs Logistic Regression is the fact that they both use labeled datasets to make predictions. However:
