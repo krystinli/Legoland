@@ -1,4 +1,4 @@
-# The_Basics 👶
+## The_Basics 👶
 ML is the science of making computers learn without programming them explicitly. For example, Netflex recommendation system predicts user's preference for movies based on past ratings.
 
 ## Supervised Learning
