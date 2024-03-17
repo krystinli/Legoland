@@ -5,7 +5,7 @@
   - **Linear** Regression is used to solve **Regression** problems:
     - Regression is about predicting a continuous output
     - by finding the correlations between dependent and independent variables 
-  - **Logistic** Regression is used to solve **Classification** problems
+  - **Logistic** Regression is used to solve **Classification** problems:
     - Classification is about predicting a label
     - by identifying which category an object belongs to based on different parameters 
 
