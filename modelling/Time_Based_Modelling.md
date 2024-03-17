@@ -1,5 +1,5 @@
 ## A Guide to Time-Related Event Analysis 📆
-Events prediction refers to forecasting the likelihood of a specific event occurring in the future: [[blog]](https://medium.com/geekculture/down-the-rabbit-hole-of-event-prediction-a-guide-to-time-related-event-analysis-and-beyond-7529591adada)
+ [[blog]](https://medium.com/geekculture/down-the-rabbit-hole-of-event-prediction-a-guide-to-time-related-event-analysis-and-beyond-7529591adada) Events prediction refers to forecasting the likelihood of a specific event occurring in the future:
 - Examples: churn, customer loss; purchase; time series; failure
 - Survival analysis: statiscal method used to analyze data on the time it takes for an event to occur
 
