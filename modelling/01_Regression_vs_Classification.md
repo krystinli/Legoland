@@ -19,7 +19,8 @@ Make predictions on _continuous_ dependent variables with the knowledge from ind
 - Simple Linear Regression is a regression model that:
   - Estimates the relationship between 1 independent variable and 1 dependent variable using a straight line
   - Multiple Linear Regression: ff there are >2 independent variables
-- Assuming linear relationship: <img width="450" src="https://github.com/krystinli/Legoland/assets/33378140/f43bc917-98bc-47e3-b548-86bcde154b0e"/>
+- Assuming linear relationship:
+<img width="450" src="https://github.com/krystinli/Legoland/assets/33378140/f43bc917-98bc-47e3-b548-86bcde154b0e"/>
 
 ## 2) Classification
 Make predictions on _categorical_ dependent variable with the knowledge of independent variables:
