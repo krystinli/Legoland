@@ -23,7 +23,7 @@ Are used for residual modeling (ReMo):
 - How to select the right values for the various parameters? For example, what should be the maximum height?
 - Use a classification tree to predict charge-off of customers
 
-### Classification w/ Decision Tree
+**Classification w/ Decision Tree**
 - Height of a tree: longest node of the tree
 - Depht of a tree: height - 1
 - `stump`: a tree with depht = 2, just root and children
@@ -32,7 +32,7 @@ Are used for residual modeling (ReMo):
 - There's no guarantee a local decision will lead to a global optimal tree
   - one that best models the relationship between the attributes and the target
 
-## 1) How to construct a decision tree?
+## How to construct a decision tree?
 **How to measure Impurity?** given a dataset of n points, these 3 methods assign a number to the set depending on how homogenous the set is: (more homogenous, lower impurity) 
 - entropy - scale of 0~1:
   - 0 implies purity
@@ -40,3 +40,20 @@ Are used for residual modeling (ReMo):
 - gini impurity
 - misclassification impurity 
 
+**Stopping criterion**
+- Specify a **maximum height** for the tree (to not result in really large trees)
+- A node is split only if it has a certain **minimum number of samples** in it
+- maximum value for the **number of leaves**
+- Split a node only if the **drop in impurity** is larger than a certain threshold
+- choose the tree for which the **k-fold cross-validation** error is a minimum
+
+### Pruning
+- the tree is grown fully until the leaf nodes are all pure
+- Then, all pairs of neighboring leaves (with a common parent) are considered for elimination
+- If merging two such neighboring leaves results only in a small increase in impurity, then the leaves are eliminated and their common parent is declared a leaf
+
+### Surrogate_split
+Dealing with the missing attributes:
+- a substitute if the attribute is missing in new observations
+- In practice, one creates several (5 to 10) surrogates at each node just in case multiple attributes are missing
+- Finally, to cover the case where there are no “good” surrogates, one employs the ultimate backup solution: send the new observation to the child that received the majority of training observations during the primary split
