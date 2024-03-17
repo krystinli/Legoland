@@ -28,7 +28,7 @@ A mathematical formula used to calculate the error:
 - Measures how "wrong" the model with its ability to estimate the relationship between x and y
 - For linear regression, cost function = MSE (root mean squared error)
 
-<img width="150" src="https://www.kdnuggets.com/wp-content/uploads/arya_logistic_linear_regression_succinct_1.png" />
+<img width="350" src="https://www.kdnuggets.com/wp-content/uploads/arya_logistic_linear_regression_succinct_1.png" />
 
 ## 2) Classification 🪙
 Make predictions on _categorical_ dependent variable with the knowledge of independent variables:
@@ -43,6 +43,13 @@ Make predictions on _categorical_ dependent variable with the knowledge of indep
 Can be used for both Regression and Classification tasks:
 - Is based on Maximum Likelihood Estimation
 - A method of estimating the parameters of an assumed probability distribution given some observed data
+
+Cost Function
+- Cannot use MSE because our prediction function is non-linear (due to sigmoid transform)
+- Therefore we use a cost function called Cross-Entropy, also known as **Log Loss**
+- Cross-entropy measures the difference between two probability distributions for a given random variable:
+
+![image](https://github.com/krystinli/Legoland/assets/33378140/4ae034f2-72b4-4da0-bc2f-423a36a680b8)
 
 
 
