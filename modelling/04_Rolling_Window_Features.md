@@ -1,5 +1,6 @@
 # Rolling Window Features 🪟
-- Predict what will happen next, or what will happen in next N weeks [medium](https://medium.com/analytics-vidhya/predictive-models-using-rolling-window-features-i-691172c19e95)
+[[code]](https://github.com/patilvijay23/MLinPython/blob/main/pyspark/3_rolling_window_features.ipynb) | [medium](https://medium.com/analytics-vidhya/predictive-models-using-rolling-window-features-i-691172c19e95)
+- Predict what will happen next, or what will happen in next N weeks 
 - The model, and required features + dependent variable, needs to be designed to accommodate the relative time element
 
 ## Q: Which customers will make a purchase in next 4 weeks? 🛍️
