@@ -7,10 +7,17 @@ Given past sales data for 2 years from Jan 2019 to Dec 2020:
 
 ![image](https://github.com/krystinli/Legoland/assets/33378140/c1efb735-9ed2-44ec-bce8-b890ec32f7f9)
 
-### Step (1): test/train split 🚋
+### Step (1): Test/train Split 🚋
 Choose a **reference date** and then base everything to be relative to this date:
 - The timeframe post the reference date will become the **target window**
   - to check whether a customer bought anything or not
 - All activity prior to the reference date will be summarized to get **features** for the model
+- The chosen reference date can induce it’s own biases into the dataset
+  - Especially if there is seasonality to the variable we are trying to predict 
 
 ![image](https://github.com/krystinli/Legoland/assets/33378140/04e065b6-3fe2-432b-86d9-a0a04854b488)
+
+We can choose multiple reference dates spread out over a year or two:
+- We can also randomly sample from the 24 reference dates in case the data becomes too much to handle
+
+![image](https://github.com/krystinli/Legoland/assets/33378140/c8107a78-1036-45ff-9cfb-fa791648e34f)
