@@ -8,7 +8,7 @@ Given past sales data for 2 years from Jan 2019 to Dec 2020:
 
 ![image](https://github.com/krystinli/Legoland/assets/33378140/c1efb735-9ed2-44ec-bce8-b890ec32f7f9)
 
-### Step (1): Test/train Split 🚋
+### Step (1): Build a rolling window features dataset
 Choose a **reference date** and then base everything to be relative to this date:
 - The timeframe post the reference date will become the **target window**
   - to check whether a customer bought anything or not
@@ -24,12 +24,11 @@ We can choose multiple reference dates spread out over a year or two:
 ![image](https://github.com/krystinli/Legoland/assets/33378140/c8107a78-1036-45ff-9cfb-fa791648e34f)
 
 ### Step (2): Target
-Our target is to predict who will buy something in the next 4 weeks
+Our target is to predict who will buy something in the next 4 weeks (1 or 0)
 - For each `week_end`, we will create a flag variable that tells whether the customer bought something
 - Then we can use the window definitions to agg the next 4 weeks relative to week_end
   - as the target variable for each week_end
 - Similarly we will use the window definitions to agg various timeframes of the past year for all features
-- 
 
 
 
