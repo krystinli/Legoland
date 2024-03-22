@@ -18,17 +18,20 @@ Choose a **reference date** and then base everything to be relative to this date
 
 ![image](https://github.com/krystinli/Legoland/assets/33378140/04e065b6-3fe2-432b-86d9-a0a04854b488)
 
-We can choose multiple reference dates spread out over a year or two:
-- We can also randomly sample from the 24 reference dates
-
+We can choose multiple reference dates spread out over a year or two by randomly sample from the 24 reference dates:
 ![image](https://github.com/krystinli/Legoland/assets/33378140/c8107a78-1036-45ff-9cfb-fa791648e34f)
 
-### Step (2): Target
+### Step (2): Target 🎯
 Our target is to predict who will buy something in the next 4 weeks (1 or 0)
 - For each `week_end`, we will create a flag variable that tells whether the customer bought something
 - Then we can use the window definitions to agg the next 4 weeks relative to week_end
   - as the target variable for each week_end
 - Similarly we will use the window definitions to agg various timeframes of the past year for all features
 
+### Step (3): RF 🌳
+We will use Random Forest to quickly train a model:
+- As the focus here is on rolling window features, we will train only one iteration of RF model using all features
+- In an actual scenario, you will iterate through the training step multiple times for feature selection
+- and model hyper parameter tuning to get a good final model
 
 
